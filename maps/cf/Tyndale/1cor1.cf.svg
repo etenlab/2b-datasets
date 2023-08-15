@@ -60,9 +60,9 @@
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.9px;" x="174.049" y="87.807" transform="matrix(0.966806, 0, 0, 0.867566, 5.305906, 11.437661)">Ephesus</text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="273.882" y="112.352" transform="matrix(0.877324, 0, 0, 0.830485, 33.65789, 18.523169)">Antioch</text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="263.084" y="181.153">Jerusalem</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="6.016" y="36.432">N</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="65.087" y="111.053" transform="matrix(0.780647, 0, 0, 0.728452, 14.841623, 30.822712)">300 Mi.</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="64.282" y="130.432" transform="matrix(0.744574, 0, 0, 0.684602, 4.223248, 35.993427)">300 Km.</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="1.505" y="36.432">North</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="65.087" y="111.053" transform="matrix(0.780647, 0, 0, 0.728452, 14.841623, 30.822712)">300 Miles</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="64.282" y="130.432" transform="matrix(0.744574, 0, 0, 0.684602, 4.223248, 35.993427)">300 Kilometers</text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="30.978" y="109.666" transform="matrix(0.99398, 0, 0, 0.833013, 0.224378, 20.891033)">0</text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.3px;" x="50.176" y="162.013" transform="matrix(0.946468, 0, 0, 0.830393, -16.788507, -8.340582)">0</text>
 </svg>
