@@ -234,34 +234,32 @@
   <text class="cls-18" transform="translate(167.98 395.58)" style="white-space: pre;"><tspan x="0" y="0">0</tspan></text>
   <text class="cls-18" transform="translate(193.03 395.43)" style="white-space: pre;"><tspan x="0" y="0">20 Kilometers</tspan></text>
   <path class="cls-2" d="m196.56,385.71v3.74m16.06-3.42v-3.74m-42.91.03v7.12m0-3.74h42.98"/>
-  <text class="cls-28" style="white-space: pre;" x="103.605" y="40.492"><tspan class="cls-39" x="103.605" y="40.492" style="font-size: 9px; word-spacing: 0px; letter-spacing: 0.36px;">Lebanon</tspan></text>
-  <text class="cls-28" transform="translate(186.05 91.3)" style="white-space: pre;"><tspan class="cls-25" x="0" y="0">Syria</tspan></text>
-  <text class="cls-12" transform="translate(10.8 101.24) scale(.98) skewX(-12)" style="white-space: pre;"><tspan x="0" y="0">Mediterranean Sea</tspan></text>
-  <text class="cls-12" transform="translate(144 121.54) scale(.98) skewX(-12)" style="white-space: pre;"><tspan x="0" y="0">Sea of Galilee</tspan></text>
-  <text class="cls-17" style="white-space: pre;" x="107.034" y="175"><tspan x="107.034" y="175" style="font-size: 7px; word-spacing: 0px;">Mount Gilboa</tspan></text>
-  <text class="cls-28" style="white-space: pre;" x="56.115" y="184.413" transform="matrix(1.080738, 0, 0, 1.151042, -6.481294, -28.170301)"><tspan class="cls-38" x="56.115" y="184.413" style="font-size: 9px; word-spacing: 0px; letter-spacing: 0.36px;">Israel</tspan></text>
-  <text class="cls-18" style="white-space: pre;" x="55.22" y="62.72" transform="matrix(1.048366, 0, 0, 1.449595, -7.966663, -27.190893)"><tspan x="55.22" y="62.72" style="font-size: 6px; word-spacing: 0px;">North</tspan></text>
-  <text class="cls-16" transform="translate(43.99 244.81) rotate(-76.2)" style="white-space: pre;"><tspan x="0" y="0">Canaan</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="65.775" y="239.243"><tspan x="65.775" y="239.243" style="font-size: 8px; word-spacing: 0px;">Ebenezer</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="82.771" y="247.845"><tspan x="82.771" y="247.845" style="font-size: 8px; word-spacing: 0px;">Shiloh</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="130.582" y="270.219"><tspan x="130.582" y="270.219" style="font-size: 8px; word-spacing: 0px;">Gilgal</tspan></text>
-  <text class="cls-28" transform="translate(183.89 282.75)" style="white-space: pre;"><tspan class="cls-38" x="0" y="0">Jordan</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="67.612" y="271.315"><tspan x="67.612" y="271.315" style="font-size: 8px; word-spacing: 0px;">Mizpah</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="101.187" y="277.042"><tspan x="101.187" y="277.042" style="font-size: 8px; word-spacing: 0px;">Ramah</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="37.715" y="280.268"><tspan x="37.715" y="280.268" style="font-size: 8px; word-spacing: 0px;">Kiriath-jearim</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="58.496" y="288.166"><tspan x="58.496" y="288.166" style="font-size: 8px; word-spacing: 0px;">Jerusalem</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="24.39" y="299.178"><tspan x="24.39" y="299.178" style="font-size: 8px; word-spacing: 0px;">Gath</tspan></text>
-  <text class="cls-17" transform="translate(51.78 302.33)" style="white-space: pre;"><tspan class="cls-30" x="0" y="0">Valley of Elah</tspan></text>
-  <text class="cls-12" transform="matrix(1, 0, -0.212557, 1, 121.852257, 306.546356)" style="white-space: pre;"><tspan x="0" y="0" style="font-size: 7px; word-spacing: 0px;">Dead Sea</tspan></text>
-  <text class="cls-17" style="white-space: pre;" x="61.939" y="317.188"><tspan x="61.939" y="317.188" style="font-size: 7px; word-spacing: 0px;">Wilderness of Ziph</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="83.109" y="332.53"><tspan x="83.109" y="332.53" style="font-size: 8px; word-spacing: 0px;">En-gedi</tspan></text>
-  <text class="cls-11" style="white-space: pre;" x="31.969" y="346.398"><tspan x="31.969" y="346.398" style="font-size: 8px; word-spacing: 0px;">Ziklag</tspan></text>
+  <text class="cls-28" style="font-size: 7px; letter-spacing: 0.36px; text-anchor: middle; white-space: pre;" x="123.147" y="44.641">Lebanon</text>
+  <text class="cls-28" style="font-size: 7px; letter-spacing: 0.36px; white-space: pre; text-anchor: middle;" x="207.323" y="92.221">Syria</text>
+  <text class="cls-12" transform="matrix(1, 0, -0.212557, 1, 37.531818, 90.937759)" style="white-space: pre; text-anchor: middle;"><tspan x="0" y="0" style="font-size: 7px; word-spacing: 0px;">Mediterranean Sea</tspan></text>
+  <text class="cls-12" transform="matrix(1, 0, -0.212557, 1, 126.82917, 128.936752)" style="font-size: 5px; white-space: pre; text-anchor: end;" x="0" y="0">Sea of Galilee</text>
+  <text class="cls-17" style="white-space: pre;" x="107.209" y="175.745"><tspan x="107.209" y="175.745" style="font-size: 7px; word-spacing: 0px;">Mount Gilboa</tspan></text>
+  <text class="cls-28" style="font-size: 7.819px; letter-spacing: 0.36px; text-anchor: middle; white-space: pre;" transform="matrix(1.080738, 0, 0, 1.151042, 18.299414, -21.943687)" x="56.115" y="184.413">Israel</text>
+  <text class="cls-18" style="font-size: 5.51878px; text-anchor: middle; white-space: pre;" transform="matrix(1.048366, 0, 0, 1.449595, -0.407098, -25.095499)" x="55.22" y="62.72">North</text>
+  <text class="cls-16" transform="matrix(0.238534, -0.971134, 0.971134, 0.238534, 47.839279, 235.59848)" style="white-space: pre; text-anchor: middle;"><tspan x="0" y="0" style="font-size: 8px; word-spacing: 0px;">Canaan</tspan></text>
+  <text class="cls-11" style="font-size: 7px; white-space: pre;" x="65.775" y="239.243">Ebenezer</text>
+  <text class="cls-11" style="font-size: 7px; white-space: pre; text-anchor: end;" x="105.345" y="247.689">Shiloh</text>
+  <text class="cls-11" style="font-size: 7px; white-space: pre;" x="130.063" y="266.649">Gilgal</text>
+  <text class="cls-28" style="white-space: pre; text-anchor: middle;" x="195.271" y="282.737"><tspan class="cls-38" x="195.271" y="282.737" style="font-size: 9px; word-spacing: 0px; letter-spacing: 0.36px;">Jordan</tspan></text>
+  <text class="cls-11" style="font-size: 7px; white-space: pre; text-anchor: end;" x="91.965" y="269.704">Mizpah</text>
+  <text class="cls-11" style="font-size: 7px; white-space: pre;" x="101.187" y="277.042">Ramah</text>
+  <text class="cls-11" style="font-size: 7px; text-anchor: end; white-space: pre;" x="85.718" y="280.085">Kiriath-jearim</text>
+  <text class="cls-11" style="white-space: pre; text-anchor: end;" x="97.532" y="289.536"><tspan x="97.532" y="289.536" style="font-size: 8px; word-spacing: 0px;">Jerusalem</tspan></text>
+  <text class="cls-11" style="font-size: 7px; text-anchor: end; white-space: pre;" x="43.337" y="299.241">Gath</text>
+  <text class="cls-17" style="white-space: pre; text-anchor: middle;" x="76.042" y="303.01"><tspan class="cls-30" x="76.042" y="303.01" style="font-size: 7px; word-spacing: 0px; letter-spacing: -0.28px;">Valley of Elah</tspan></text>
+  <text class="cls-12" transform="matrix(0.17911, -0.983829, 0.945758, 0.388229, 127.748611, 328.744537)" style="font-size: 5px; white-space: pre; transform-box: fill-box; transform-origin: 50% 50%; text-anchor: middle;" x="0" y="0">Dead Sea</text>
+  <text class="cls-17" style="white-space: pre; text-anchor: middle;" x="83.024" y="317.126"><tspan x="83.024" y="317.126" style="font-size: 7px; word-spacing: 0px;">Wilderness of Ziph</tspan></text>
+  <text class="cls-11" style="font-size: 7px; text-anchor: end; white-space: pre;" x="111.808" y="332.055">En-gedi</text>
+  <text class="cls-11" style="font-size: 7px; white-space: pre;" x="31.969" y="346.398">Ziklag</text>
   <text class="cls-17" style="white-space: pre;" x="46.865" y="366.662"><tspan x="46.865" y="366.662" style="font-size: 7px; word-spacing: 0px;">Wilderness of Maon</tspan></text>
-  <text class="cls-15" transform="matrix(0.034202, -0.979403, 0.972133, 0.24238, 131.892883, 249.091034)" style="white-space: pre;"><tspan x="0" y="0">Jordan River</tspan></text>
-  <line class="cls-6" x1="48.6" y1="416.82" x2="52.99" y2="416.82"/>
-  <text class="cls-18" transform="matrix(1.021537, 0, 0, 1.083513, 0.79, 418.705536)" style="white-space: pre;"><tspan x="0" y="0">The broken lines (        ) indicate modern boundaries</tspan></text>
-  <text class="cls-22" transform="translate(54.11 417.14)" style="white-space: pre;"><tspan class="cls-29" x="0" y="0">.</tspan><tspan x="7.5" y="0">.</tspan></text>
-  <line class="cls-6" x1="56.23" y1="416.74" x2="60.99" y2="416.74"/>
+  <text class="cls-15" transform="matrix(0.034202, -0.979403, 0.972133, 0.24238, 143.081985, 230.761963)" style="font-size: 5.94678px; text-anchor: middle; white-space: pre;" x="0" y="0">Jordan River</text>
+  <text class="cls-18" transform="matrix(0.960963, 0, 0, 1.091528, 0.819122, 418.298096)" style="font-size: 5.53754px; line-height: 8.86007px; white-space: pre;" x="0" y="0">The broken lines (- -- -) indicate modern boundaries</text>
   <text class="cls-21" transform="translate(112.39 330.99)" style="white-space: pre;"><tspan x="0" y="0">.</tspan></text>
   <text class="cls-20" transform="matrix(0.559487, 0, 0, 0.737028, 3.480147, 9.772997)" style="white-space: pre;"><tspan x="0" y="0">New Living Translation 1 Samuel Overview</tspan></text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9.5px;" x="24.344" y="420.512"> </text>
 </svg>
