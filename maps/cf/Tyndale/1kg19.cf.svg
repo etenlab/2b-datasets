@@ -44,21 +44,21 @@
   <line class="cls-2" x1="30.67" y1="14.69" x2="30.67" y2="11.3"/>
   <line class="cls-2" x1="10.22" y1="14.54" x2="31.04" y2="14.54"/>
   <line class="cls-2" x1="23.33" y1="17.64" x2="23.33" y2="14.26"/>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="128.103" y="2.764" transform="matrix(0.718825, 0, 0, 0.776042, -38.995934, 19.036028)">North</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="12.623" y="45.432" transform="matrix(0.799583, 0, 0, 0.78001, 6.824455, 10.483224)">Mediterranean Sea</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="120.011" y="25.292" transform="matrix(0.591626, 0, 0, 0.583124, 21.433996, 18.77433)">Sea of Galilee</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="120.604" y="32.745" transform="matrix(0.88702, 0, 0, 0.930432, -30.197269, 13.862127)">Jezreel</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="90.133" y="53.747">Israel</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="121.406" y="50.404" transform="matrix(0.796582, 0, 0, 0.87872, -27.336081, 21.071745)">Jerusalem</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="78.991" y="72.843">Judah</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="120.633" y="69.711" transform="matrix(0.808524, 0, 0, 0.864707, -38.354374, 19.425695)">Beersheba</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="122.666" y="82.868" transform="matrix(0.542046, 0, 0, 0.628871, 34.547138, 22.171612)">Dead Sea</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="23.92" y="104.339">Egypt</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px; transform-box: fill-box; transform-origin: 50% 50%;" x="121.303" y="102.997" transform="matrix(0.073771, -0.752296, 0.72316, 0.070914, -127.959923, 19.164202)">Nile River</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="123.641" y="116.637" transform="matrix(0.768275, 0, 0, 0.724134, -25.023722, 69.627785)">Mount Sinai</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="121.712" y="128.534" transform="matrix(0.7165120244026184, 0, 0, 0.8490820527076721, -14.263609585564737, 66.23854377102258)">Red Sea</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="124.484" y="140.198" transform="matrix(0.664502, 0, 0, 0.659607, -59.251884, -82.385399)">50 Miles</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px;" x="123.989" y="151.479" transform="matrix(0.6500880122184753, 0, 0, 0.6641470193862915, -64.77617715180645, -78.1026666679868)">50 Kilometers</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px; white-space: pre;" transform="matrix(0.688755, 0, 0, 0.676609, -77.215164, -87.293106)" x="124.165" y="160.629" dx="1.085" dy="0.111">0</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.7px; white-space: pre;" transform="matrix(0.688755, 0, 0, 0.676609, -76.482704, -99.637589)" x="124.165" y="160.629" dx="0.317" dy="2.063">0</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.86577px; text-anchor: middle; white-space: pre;" transform="matrix(0.718825, 0, 0, 0.776042, -33.015594, 19.436644)" x="128.103" y="2.764">North</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4.57756px; line-height: 6.15377px; text-anchor: middle; white-space: pre;" transform="matrix(0.780278, 0, 0, 0.873828, 28.836714, 6.754328)" x="12.623" y="45.432">Mediterranean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4.7px; white-space: pre; text-anchor: middle;" transform="matrix(0.591626, 0, 0, 0.583124, 33.552448, 18.4016)" x="120.011" y="25.292">Sea of Galilee</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.22431px; line-height: 5.15889px; text-anchor: end; white-space: pre;" transform="matrix(0.88702, 0, 0, 0.930432, -9.887447, 13.822574)" x="120.604" y="32.745">Jezreel</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre;" x="98.15" y="53.404">Israel</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.41406px; line-height: 5.46249px; white-space: pre; text-anchor: end;" transform="matrix(0.796582, 0, 0, 0.87872, -2.345667, 20.794209)" x="121.406" y="50.404">Jerusalem</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre;" x="90.495" y="72.128">Judah</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.46938px; white-space: pre; text-anchor: end;" transform="matrix(0.808524, 0, 0, 0.864707, -11.940744, 19.772951)" x="120.633" y="69.711">Beersheba</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.6101px; white-space: pre; transform-box: fill-box; transform-origin: 7.07074px 1.82707px; text-anchor: middle;" transform="matrix(0.1946, -0.50591, 0.586946, 0.225771, -15.467534, -9.965511)" x="122.666" y="82.868">Dead Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: middle;" x="16.132" y="104.433">Egypt</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4.7px; white-space: pre; transform-box: fill-box; transform-origin: 14.5644px 3.79849px; text-anchor: middle;" transform="matrix(0.073771, -0.752296, 0.72316, 0.070914, -117.886795, 17.992378)" x="121.303" y="102.997">Nile River</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5.52384px; white-space: pre;" transform="matrix(0.768275, 0, 0, 0.724134, -25.965605, 69.90197)" x="123.641" y="116.637">Mount Sinai</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4.71097px; text-anchor: middle; white-space: pre;" transform="matrix(0.716512, 0, 0, 0.849082, -6.814351, 65.808159)" x="121.712" y="128.534">Red Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4.7px; text-anchor: middle; white-space: pre;" transform="matrix(0.664502, 0, 0, 0.659607, -52.09491, -82.697121)" x="124.484" y="140.198">50 Miles</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4.7px; text-anchor: middle; white-space: pre;" transform="matrix(0.650088, 0, 0, 0.664147, -50.442116, -79.961632)" x="123.989" y="151.479">50 Kilometers</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4.7px; white-space: pre;" transform="matrix(0.688755, 0, 0, 0.676609, -77.215164, -87.293106)" x="124.165" y="160.629" dx="1.085" dy="0.111">0</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4.7px; white-space: pre;" transform="matrix(0.688755, 0, 0, 0.676609, -76.482704, -99.637589)" x="124.165" y="160.629" dx="0.317" dy="2.063">0</text>
 </svg>
