@@ -43,19 +43,19 @@
   <line class="cls-3" x1="138.1" y1="207.02" x2="138.1" y2="212.78"/>
   <polyline class="cls-3" points="162.08 206.87 162.08 210.11 137.89 210.11"/>
   <line class="cls-3" x1="152.36" y1="210.11" x2="152.36" y2="212.92"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre; transform-box: fill-box; transform-origin: 50% 50%;" x="61.857" y="35.179" transform="matrix(0.715, -0.699125, 0.699125, 0.715, -7.915021, 8.744395)">Antonia Fortress (ater Praetorium?)</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre; transform-box: fill-box; transform-origin: 17.3653px 2.8235px;" transform="matrix(-0.005159, -0.999987, 0.999987, -0.005159, 7.058874, -15.71848)" x="149.579" y="73.623">Mount of Olives</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 62.4855% 63.6365%;" transform="matrix(0.00073, -1, 1, 0.00073, 15.184837, -4.905888)" x="143.921" y="91.05">Garden of Gethsemane</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre; text-anchor: middle;" x="160.919" y="183.119">North</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre;" x="137.008" y="205.949">0           .1 Miles</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre;" x="137.073" y="216.707">0      .1 Kilometers</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; text-anchor: middle; white-space: pre;" x="122.826" y="77.764">Temple</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre; text-anchor: end;" x="69.27" y="113.157">Hasmonean Palace</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre; text-anchor: end;" x="87.519" y="129.673">Herod's Lower Palace</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;" x="-2.004" y="131.266" transform="matrix(0.229949, -0.973203, 0.973203, 0.229949, 14.710432, -7.20121)">Herod's Royal Palace</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; letter-spacing: 1px; white-space: pre; text-anchor: middle;" x="60.504" y="143.905">Upper City</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="72.197" y="158.636">Jerusalem</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; letter-spacing: 1px; white-space: pre; text-anchor: middle;" x="86.29" y="178.505">Lower City</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre; text-anchor: middle;" x="35.853" y="172.981">Traditional Upper Room?</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre; text-anchor: middle;" x="32.986" y="155.883">Caiaphas's House?</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; white-space: pre; transform-box: fill-box; transform-origin: 23.59px 1.66285px;" transform="matrix(0.715, -0.699125, 0.699125, 0.715, -7.915021, 8.744395)" x="61.857" y="35.179">Antonia Fortress (ater Praetorium?)</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; transform-box: fill-box; transform-origin: 17.3653px 2.8235px;" transform="matrix(-0.005159, -0.999987, 0.999987, -0.005159, 7.058874, -15.71848)" x="149.579" y="73.623">Mount of Olives</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 26.1161px 2.88787px;" transform="matrix(0.00073, -1, 1, 0.00073, 15.184837, -4.905888)" x="143.921" y="91.05">Garden of Gethsemane</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre;" x="160.919" y="183.119">North</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="137.008" y="205.949">0           .1 Miles</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="137.073" y="216.707">0      .1 Kilometers</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre;" x="122.826" y="77.764">Temple</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; text-anchor: end; white-space: pre;" x="69.27" y="113.157">Hasmonean Palace</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; text-anchor: end; white-space: pre;" x="87.519" y="129.673">Herod's Lower Palace</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 14.3743px 1.66285px;" transform="matrix(0.229949, -0.973203, 0.973203, 0.229949, 14.710432, -7.20121)" x="-2.004" y="131.266">Herod's Royal Palace</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="60.504" y="143.905">Upper City</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="72.197" y="158.636">Jerusalem</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="86.29" y="178.505">Lower City</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; text-anchor: middle; white-space: pre;" x="35.853" y="172.981">Traditional Upper Room?</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; text-anchor: middle; white-space: pre;" x="32.986" y="155.883">Caiaphas's House?</text>
 </svg>
