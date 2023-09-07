@@ -53,17 +53,17 @@
   <polyline class="cls-3" points="75.64 166.68 103 166.68 103 163.73"/>
   <line class="cls-3" x1="92.88" y1="166.76" x2="92.88" y2="169.35"/>
   <line class="cls-3" x1="75.67" y1="163.76" x2="75.67" y2="169.08"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" transform="matrix(1, 0, 0, 1, -75.80479724837832, 95.63790294349897)"><tspan x="128.66" y="4.253">Athens</tspan><tspan x="128.66" dy="1em">​</tspan></text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: middle;" x="123.849" y="60.16" transform="matrix(1, 0, 0, 1, -60.975699325216056, 17.104328526011816)">Aegean Sea</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre;" x="42.763" y="152.79">Mediterranean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" transform="matrix(1, 0, 0, 1, -76.102158, 94.858093)"><tspan x="128.66" y="4.253">Athens</tspan><tspan x="128.66" dy="1em">​</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="64.997" y="76.993">Aegean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="52.372" y="153.633">Mediterranean Sea</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="126.291" y="8.66"> </text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="124.263" y="11.475" transform="matrix(1, 0, 0, 1, -38.72178083813195, 63.32745117405662)">Troas</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" transform="matrix(1, 0, 0, 1, -38.72178083813195, 63.32745117405662)" x="124.263" y="11.475">Troas</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="85.765" y="79.598">Assos</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="85.224" y="85.875">Mitylene</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="94.904" y="105.894">Miletus</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="76.329" y="89.946">Kios</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="79.665" y="109.527">Samos</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="76.329" y="89.946">Kios</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="79.665" y="109.527">Samos</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="74.576" y="162.803">0                     150</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="74.602" y="173.439">0            150</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; white-space: pre; text-anchor: end;" x="119.45" y="39.771">North</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="119.45" y="39.771">North</text>
 </svg>
