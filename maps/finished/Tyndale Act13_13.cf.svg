@@ -52,19 +52,19 @@
   <line class="cls-4" x1="23.84" y1="106.73" x2="23.84" y2="109.32"/>
   <line class="cls-4" x1="6.63" y1="103.7" x2="6.63" y2="109.03"/>
   <line class="cls-3" x1="94.26" y1="82.39" x2="96.13" y2="78.94"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre;" x="18.308" y="62.137">Athens</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; text-anchor: end; white-space: pre;" x="95.806" y="58.451">Antioch</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; text-anchor: middle; white-space: pre;" x="103.945" y="43.99">Galatia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; text-anchor: middle; white-space: pre;" x="76.431" y="67.802">Pisidia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; text-anchor: middle; white-space: pre;" x="78.962" y="77.164">Lycia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre; text-anchor: middle;" x="121.77" y="79.725">Pamphylia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; text-anchor: end; white-space: pre;" x="93.88" y="85.255">Perga</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre; text-anchor: middle;" x="119.829" y="95.758">Cyprus</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre;" x="117.585" y="110.825">Paphos</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre; text-anchor: middle;" x="72.491" y="107.757">Mediterranean Sea</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre;" x="157.614" y="85.986">Antioch</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre; text-anchor: end;" x="178.702" y="64.56">Taurus Mountains</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3.63199px; white-space: pre;" transform="matrix(1.043794, 0, 0, 1.101326, -193.301224, -13.849761)" x="190.509" y="105.493">0                    150 Miles</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre;" x="5.622" y="113.255">0          150 Kilometers</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre; text-anchor: end;" x="178.747" y="16.549">North</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="18.425" y="62.466">Athens</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="95.806" y="58.451">Antioch</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="103.945" y="43.99">Galatia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="76.431" y="67.802">Pisidia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="83.605" y="78.556">Lycia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="121.77" y="79.725">Pamphylia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="93.88" y="85.255">Perga</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="119.829" y="95.758">Cyprus</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="117.585" y="110.825">Paphos</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="72.598" y="108.88">Mediterranean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="157.855" y="85.805">Antioch</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; letter-spacing: 1px; text-anchor: end; white-space: pre;" x="178.702" y="64.56">Taurus Mountains</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.63199px; white-space: pre;" transform="matrix(1.043794, 0, 0, 1.101326, -193.301224, -13.849761)" x="190.509" y="105.493">0                    150 Miles</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="5.622" y="113.255">0          150 Kilometers</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="181.003" y="16.565">North</text>
 </svg>

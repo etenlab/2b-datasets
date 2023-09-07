@@ -55,16 +55,16 @@
   <line class="cls-3" x1="114.56" y1="58.7" x2="112.83" y2="62.09"/>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="180.416" y="14.761">North</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" transform="matrix(1, 0, 0, 1, -42.81527644492703, -101.39495380646055)" x="61.135" y="165.203">Athens</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" transform="matrix(1, 0, 0, 1, -88.69628807658148, 39.32394941436906)" x="183.604" y="18.975">Antioch</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 36.0716% 57.6923%;" transform="matrix(0.985782, -0.168029, 0.168029, 0.985782, 11.956159, 0.301278)" x="71.039" y="71.763">Pisidia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 7.28756px 2.65304px;" transform="matrix(0.83676, -0.547569, 0.547569, 0.83676, 0.264288, 2.381267)" x="109.883" y="38.119">Galatia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="127.473" y="50.845">Lycaonia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="94.908" y="58.299">Antioch</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 48.0369% 52.728%;" transform="matrix(0.985782, -0.168029, 0.168029, 0.985782, 11.885705, -0.073083)" x="71.039" y="71.763">Pisidia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 49.5276% 53.9162%;" transform="matrix(0.83676, -0.547569, 0.547569, 0.83676, -0.231545, 1.064674)" x="109.883" y="38.119">Galatia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="127.546" y="51.771">Lycaonia</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="115.737" y="58.404">Iconium</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="118.48" y="65.508" transform="matrix(1, 0, 0, 1, -67.5511902772602, -26.486183319947983)">Lystra</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="118.172" y="66.333">Lystra</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" transform="matrix(1, 0, 0, 1, 1.155177861825777, -0.524159651817282)" x="126.292" y="73.222">Derbe</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, -0.019346, 1, 10.500252, 1.026211)" x="111.745" y="81.328">Pamphylia</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="152.609" y="90.286">Antioch</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="5.399" y="101.721">0                 150 Miles</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="5.893" y="113.553">0         150 Kilometers</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: middle;" x="84.692" y="104.31" transform="matrix(1, 0, 0, 1, -2.2854834730380844, 0.9129037169611927)">Mediterranean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, -2.2854834730380844, 0.9129037169611927)" x="84.692" y="104.31">Mediterranean Sea</text>
 </svg>
