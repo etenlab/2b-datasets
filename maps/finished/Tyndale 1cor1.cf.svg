@@ -44,25 +44,25 @@
   <line class="cls-4" x1="32.63" y1="120.92" x2="32.63" y2="113.06"/>
   <line class="cls-4" x1="71.08" y1="116.81" x2="71.08" y2="113.03"/>
   <line class="cls-4" x1="56.89" y1="120.77" x2="56.89" y2="117.1"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4.8px; white-space: pre; text-anchor: middle;" transform="matrix(1.177881, 0, 0, 1.199341, -17.393507, -1.6764)" x="117.728" y="21.441">Macedonia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4.8px; white-space: pre;" x="138.826" y="36.298">Philippi</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4.8px; white-space: pre;" x="145.178" y="41.387">Neapolis</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre; text-anchor: end;" x="133.259" y="43.674">Amphipolis</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre; text-anchor: end;" x="120.111" y="50.095">Thessalonica</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre;" transform="matrix(0.867647, 0, 0, 0.755796, 2.662239, 2.886096)" x="22.915" y="17.087">Rome</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre;" transform="matrix(0.951253, 0, 0, 0.889743, 6.040287, 4.503503)" x="139.293" y="51.799">Apollonia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.9px; white-space: pre; text-anchor: middle;" transform="matrix(0.677407, 0, 0, 0.545343, 117.991089, 91.819016)" x="32.543" y="93.174">Mediterranean Sea</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre; text-anchor: middle;" transform="matrix(0.642697, 0, 0, 0.551884, 65.804817, 28.054245)" x="120.75" y="63.262">Aegean Sea</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre; transform-box: fill-box; transform-origin: 12.084px 4.30751px; text-anchor: middle;" transform="matrix(0.817386, -0.228896, 0.228763, 0.89866, 59.749767, -17.451731)" x="52.15" y="95.501">Achaia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre; text-anchor: end;" transform="matrix(0.921418, 0, 0, 0.874069, 47.040668, 6.367209)" x="82.589" y="92.129">Corinth</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre;" transform="matrix(0.937116, 0, 0, 0.818466, 8.667826, 15.342045)" x="134.612" y="87.154">Athens</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre; text-anchor: middle;" transform="matrix(1.046907, 0, 0, 1.035488, 7.115744, -3.431314)" x="180.51" y="70.536">Asia</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.9px; white-space: pre;" transform="matrix(0.966806, 0, 0, 0.867566, 5.305906, 11.437661)" x="174.049" y="87.807">Ephesus</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.3px; white-space: pre;" transform="matrix(0.877324, 0, 0, 0.830485, 33.65789, 18.523169)" x="273.882" y="112.352">Antioch</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.3px; white-space: pre;" x="263.084" y="181.153">Jerusalem</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.3px; white-space: pre; text-anchor: middle;" x="8.797" y="35.953">North</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.3px; white-space: pre;" transform="matrix(0.780647, 0, 0, 0.728452, 14.841623, 30.822712)" x="65.087" y="111.053">300 Miles</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.3px; white-space: pre;" transform="matrix(0.744574, 0, 0, 0.684602, 4.223248, 35.993427)" x="64.282" y="130.432">300 Kilometers</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.3px; white-space: pre;" transform="matrix(0.99398, 0, 0, 0.833013, 0.224378, 20.891033)" x="30.978" y="109.666">0</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.3px; white-space: pre;" transform="matrix(0.946468, 0, 0, 0.830393, -16.788507, -8.340582)" x="50.176" y="162.013">0</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5.00275px; letter-spacing: 1px; line-height: 6.67033px; text-anchor: middle; white-space: pre;" transform="matrix(1.177881, 0, 0, 1.199341, -17.393507, -1.6764)" x="117.728" y="21.441">Macedonia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; white-space: pre;" x="138.826" y="36.298">Philippi</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; white-space: pre;" x="145.178" y="41.387">Neapolis</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; text-anchor: end; white-space: pre;" x="133.259" y="43.674">Amphipolis</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; text-anchor: end; white-space: pre;" x="120.111" y="50.095">Thessalonica</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 6.61554px; white-space: pre;" transform="matrix(0.867647, 0, 0, 0.755796, 2.662239, 2.886096)" x="22.915" y="17.087">Rome</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5.6196px; white-space: pre;" transform="matrix(0.951253, 0, 0, 0.889743, 6.040287, 4.503503)" x="139.293" y="51.799">Apollonia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 9.27051px; letter-spacing: 1px; line-height: 20.5375px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 38.9825px 5.2604px;" transform="matrix(0.608809, 0.011793, 0.002892, 0.647106, 104.813904, 50.336082)" x="32.543" y="93.174">Mediterranean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 9.05987px; text-anchor: middle; white-space: pre;" transform="matrix(0.642697, 0, 0, 0.551884, 65.804817, 28.054245)" x="120.75" y="63.262">Aegean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5.39169px; letter-spacing: 1px; line-height: 8.62671px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 12.084px 4.30751px;" transform="matrix(0.817386, -0.228896, 0.228763, 0.89866, 59.749767, -17.451731)" x="52.15" y="95.501">Achaia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5.72037px; text-anchor: end; white-space: pre;" transform="matrix(0.921418, 0, 0, 0.874069, 47.040668, 6.367209)" x="82.589" y="92.129">Corinth</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 6.10899px; white-space: pre;" transform="matrix(0.937116, 0, 0, 0.818466, 8.667826, 15.342045)" x="134.612" y="87.154">Athens</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5.79437px; letter-spacing: 1px; line-height: 7.72583px; text-anchor: middle; white-space: pre;" transform="matrix(1.046907, 0, 0, 1.035488, 7.115744, -3.431314)" x="180.51" y="70.536">Asia</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5.76325px; white-space: pre;" transform="matrix(0.966806, 0, 0, 0.867566, 5.305906, 11.437661)" x="174.049" y="87.807">Ephesus</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 6.02058px; white-space: pre;" transform="matrix(0.877324, 0, 0, 0.830485, 33.65789, 18.523169)" x="273.882" y="112.352">Antioch</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 6px; white-space: pre;" x="263.084" y="181.153">Jerusalem</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; white-space: pre;" x="3.681" y="35.59">North</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 6.86387px; white-space: pre;" transform="matrix(0.780647, 0, 0, 0.728452, 14.841623, 30.822712)" x="65.087" y="111.053">300 Miles</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 7.30351px; line-height: 16.3599px; white-space: pre;" transform="matrix(0.744574, 0, 0, 0.684602, 4.223248, 35.993427)" x="64.282" y="130.432">300 Kilometers</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 6.00231px; line-height: 9.60369px; white-space: pre;" transform="matrix(0.99398, 0, 0, 0.833013, 0.224378, 20.891033)" x="30.978" y="109.666">0</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 6.02125px; line-height: 9.63399px; white-space: pre;" transform="matrix(0.946468, 0, 0, 0.830393, -16.788507, -8.340582)" x="50.176" y="162.013">0</text>
 </svg>
