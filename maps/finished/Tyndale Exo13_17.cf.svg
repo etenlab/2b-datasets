@@ -65,7 +65,7 @@
   <path class="cls-4" d="m85.46,131.62c-.07.07-.36.58-.43.58,0,.65-.58,1.44-.58,2.16"/>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="121.16" y="11.223" transform="matrix(1, 0, 0, 1, -73.46172491397962, 24.95832351412913)">Mediterranean Sea</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="95.089" y="61.099">Jerusalem</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 41.6741% 67.5001%;" transform="matrix(0.10908700525760653, -0.9940320253372193, 0.9940320253372193, 0.10908700525760653, -12.625263772668404, 43.05939249949796)" x="121.363" y="31.234">Dead Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50.043% 50.5204%;" transform="matrix(0.109087, -0.994032, 0.994032, 0.109087, -14.80187, 41.808399)" x="121.363" y="31.234">Dead Sea</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="28.646" y="84.028">Baal-zephon?</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="121.464" y="51.844" transform="matrix(1, 0, 0, 1, -85.53438984086912, 39.56655777436808)">Succoth</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="33.722" y="98.498">Pithom</text>
@@ -74,7 +74,7 @@
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="121.774" y="93.237" transform="matrix(1, 0, 0, 1, -73.27700472653758, 37.987342303396815)">Elim</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="66.512" y="140.783">Sin Desert</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; white-space: pre; text-anchor: middle;" x="102.788" y="151.484">Midian</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; white-space: pre; transform-box: fill-box; transform-origin: 50% 50%;" x="121.437" y="124.432" transform="matrix(0.75776, -0.652533, 0.652533, 0.75776, -121.800269, -36.901894)">Goshen</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; white-space: pre;" x="121.437" y="124.432" transform="matrix(0.778483, -0.627666, 0.627666, 0.778483, -169.43571, 73.129232)">Goshen</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50% 50%;" x="122.365" y="136.32" transform="matrix(0.110677, -0.993856, 0.993856, 0.110677, -114.904615, -17.445835)">Nile River</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="42.799" y="149.567">Mount Sinai</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; letter-spacing: 1px; white-space: pre; text-anchor: middle;" x="79.992" y="173.5">Red Sea</text>
