@@ -125,7 +125,7 @@
     </g>
   </g>
   <text class="cls-11" transform="matrix(1.09, 0, 0.020184, 0.97, 78.924988, 190.5504)" style="font-family: Helvetica; font-size: 4.12371px; font-weight: 400; letter-spacing: 1px; white-space: pre; text-anchor: middle;" x="0" y="0">Red Sea</text>
-  <text class="cls-19" transform="matrix(0.121174, -1.073181, 0.963205, 0.114764, 9.390719, 136.418518)" style="font-family: Helvetica; font-size: 3.70611px; font-weight: 400; letter-spacing: 1px; line-height: 5.92193px; white-space: pre; transform-box: fill-box; transform-origin: 13.1911px 3.56163px; text-anchor: middle;" x="0" y="0">Nile River</text>
+  <text class="cls-19" transform="matrix(0.121174, -1.073181, 0.963205, 0.114764, 8.134776, 138.090909)" style="font-family: Helvetica; font-size: 3.70611px; font-weight: 400; letter-spacing: 1px; line-height: 5.92193px; white-space: pre; transform-box: fill-box; transform-origin: 49.5578% 46.8554%; text-anchor: middle;" x="0" y="0">Nile River</text>
   <text class="cls-11" transform="matrix(1.090000033378601, 0, 0.025571001693606373, 0.9700000286102294, 44.702176432604865, 59.08620171053702)" style="font-family: Helvetica; font-size: 4.12371px; font-weight: 400; letter-spacing: 1px; white-space: pre; text-anchor: middle;" x="0" y="0">Mediterranean Sea</text>
   <text class="cls-18" style="font-family: Helvetica; font-size: 5px; white-space: pre; text-anchor: end;" x="95.429" y="78.645">Jerusalem</text>
   <text class="cls-18" transform="translate(47.45 147.46)" style="font-family: Helvetica; font-size: 5px; white-space: pre;" x="0" y="0">Elim</text>
@@ -137,5 +137,5 @@
   <text class="cls-14" transform="translate(4.97 179.29)" style="font-family: Helvetica; font-size: 4px; white-space: pre;" x="0" y="0">0            50 Miles</text>
   <path class="cls-2" d="m19.01,187.28v-3.17m-12.38-.07h21.3m-.35-.07v-3.39m-20.88,6.62v-5.98"/>
   <text class="cls-14" style="font-family: Helvetica; font-size: 4px; white-space: pre;" x="5.11" y="193.04">0      50 Kilometers</text>
-  <text class="cls-15" transform="translate(.22 10.3)" style="font-family: Helvetica; font-size: 3px; white-space: pre;" x="0" y="0">New Living Translation Exodus 17:1</text>
+  <text class="cls-15" style="font-family: Helvetica; font-size: 5px; white-space: pre;" x="1.138" y="10.574">New Living Translation Exodus 17:1</text>
 </svg>
