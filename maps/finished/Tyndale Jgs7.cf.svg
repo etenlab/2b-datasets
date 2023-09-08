@@ -44,20 +44,20 @@
   <line class="cls-2" x1="6.84" y1="166.97" x2="27.66" y2="166.97"/>
   <line class="cls-2" x1="27.36" y1="167.26" x2="27.36" y2="163.87"/>
   <line class="cls-2" x1="18.29" y1="169.78" x2="18.29" y2="166.95"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 2px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="30.571" y="26.889" transform="matrix(1, 0, 0, 1, -0.9198953717972316, -12.672232834799075)">Mediterranean Sea</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; text-anchor: middle; white-space: pre;" x="17.666" y="61.588">North</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; letter-spacing: 1px; white-space: pre;" transform="matrix(1, 0, 0, 1, -3.790493912908838, 13.996649337057715)" x="70.462" y="47.462">Sea of Galilee</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 2.9px;" x="58.048" y="75.839">Ophrah</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 2.9px; text-anchor: end;" x="33.745" y="73.35" transform="matrix(1, 0, 0, 1, 17.537401128266453, -1.0384014533846475)">Hill of Moreh</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 2.9px; text-anchor: end;" x="51.732" y="80.125">spring of Harod</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3.1px;" x="62.643" y="89.46">Abel-meholah</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3.1px;" x="70.893" y="92.378" transform="matrix(1, 0, 0, 1, 0.27339870238604647, 7.289909932876746)">Peniel</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3.1px;" x="65.929" y="104.826">Succoth</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3.1px; text-anchor: end;" x="62.275" y="97.336">Zererah</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3.1px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 32.2042% 50.0001%;" transform="matrix(0.258999, -0.965878, 0.965878, 0.258999, 0.172073, -9.731054)" x="26.292" y="116.094">Canaan</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3.1px; text-anchor: end;" x="45.132" y="128.704">Jerusalem</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; letter-spacing: 1px; white-space: pre;" x="64.005" y="139.761">Dead Sea</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 2px; letter-spacing: 1px; white-space: pre; text-anchor: end; transform-box: fill-box; transform-origin: 75.4752% 150%;" transform="matrix(0.021016, -0.999779, 0.999779, 0.021016, 3.824417, -12.629295)" x="63.687" y="116.082">Jordan River</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre;" x="6.072" y="162.97">0            20 Miles</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3px; white-space: pre;" x="6.037" y="172.975">0      20 Kilometers</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50.1854% 54.3593%;" transform="matrix(0.390622, -0.920551, 0.920551, 0.390622, 3.707294, 7.412047)" x="30.571" y="26.889">Mediterranean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; text-anchor: middle; white-space: pre;" x="17.666" y="61.588">North</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; white-space: pre;" transform="matrix(1, 0, 0, 1, -3.790493912908838, 13.996649337057715)" x="70.462" y="47.462">Sea of Galilee</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2.9px; white-space: pre;" x="58.048" y="75.839">Ophrah</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2.9px; text-anchor: end; white-space: pre;" transform="matrix(1, 0, 0, 1, 17.537401128266453, -1.0384014533846475)" x="33.745" y="73.35">Hill of Moreh</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2.9px; text-anchor: end; white-space: pre;" x="51.732" y="80.125">spring of Harod</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.1px; white-space: pre;" x="62.643" y="89.46">Abel-meholah</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.1px; white-space: pre;" x="70.726" y="97.479">Peniel</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.1px; white-space: pre;" x="65.929" y="104.826">Succoth</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.1px; text-anchor: end; white-space: pre;" x="62.275" y="97.336">Zererah</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.1px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 5.42902px 1.74799px;" transform="matrix(0.258999, -0.965878, 0.965878, 0.258999, 0.172073, -9.731054)" x="26.292" y="116.094">Canaan</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3.1px; text-anchor: end; white-space: pre;" x="45.132" y="128.704">Jerusalem</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; white-space: pre;" x="64.005" y="139.761">Dead Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2px; letter-spacing: 1px; white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 49.7165% 52.2502%;" transform="matrix(0.021016, -0.999779, 0.999779, 0.021016, -4.844282, -3.285604)" x="63.687" y="116.082">Jordan River</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; white-space: pre;" x="6.072" y="162.97">0            20 Miles</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; white-space: pre;" x="6.037" y="172.975">0      20 Kilometers</text>
 </svg>
