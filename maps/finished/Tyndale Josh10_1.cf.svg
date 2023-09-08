@@ -54,25 +54,25 @@
   <line class="cls-4" x1="70.42" y1="74.66" x2="72.65" y2="67.68"/>
   <line class="cls-4" x1="72.65" y1="25.2" x2="84.82" y2="30.38"/>
   <line class="cls-4" x1="134.35" y1="17.06" x2="134.77" y2="19.94"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50.0179% 102.174%;" transform="matrix(0.489981, -0.871733, 0.871733, 0.489981, 21.23393, 9.954671)" x="4.747" y="15.805">Mediterranean Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 16.9638px 1.17069px;" transform="matrix(0.489981, -0.871733, 0.871733, 0.489981, 20.285171, 10.559536)" x="4.747" y="15.805">Mediterranean Sea</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2px; text-anchor: middle; white-space: pre;" x="6.479" y="59.247">North</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="135.78" y="15.824">Gilgal</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="135.78" y="15.824">Gilgal</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="109.325" y="36.65">Jerusalem</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="93.952" y="69.695">Hebron</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="83.201" y="86.912">Debir</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2px; letter-spacing: 1px; white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;" x="128.284" y="87.894" transform="matrix(0.152407, -0.988318, 0.988318, 0.152407, 5.46161, -17.2689)">Dead Sea</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="69.126" y="77.363">Makkedah</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="50.751" y="66.206">Eglon</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="59.643" y="60.058">Lachish</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: end;" x="54.105" y="48.173">Libnah</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 3px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 49.2049% 52.5541%;" transform="matrix(0.152407, -0.988318, 0.988318, 0.152407, 4.402935, -19.889264)" x="128.284" y="87.894">Dead Sea</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="69.126" y="77.363">Makkedah</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="50.751" y="66.206">Eglon</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="59.643" y="60.058">Lachish</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: end; white-space: pre;" x="54.105" y="48.173">Libnah</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="80.792" y="43.729">Jarmuth</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="72.066" y="51.125">Azekah</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre; text-anchor: middle;" x="99.2" y="21.292">Gibeon</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2px; letter-spacing: 1px; white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 48.5811% 101.449%;" transform="matrix(-0.032214, -0.999481, 0.999481, -0.032214, -7.13298, -3.873872)" x="152.009" y="23.787">Jordan River</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 7.00569px 2.2996px;" transform="matrix(0.50086, -0.865528, 0.865528, 0.50086, 11.852516, -11.814584)" x="20.935" y="57.929">Canaan</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre;" x="98.617" y="20.671">Gibeon</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 49.8674% 51.7947%;" transform="matrix(-0.032214, -0.999481, 0.999481, -0.032214, -8.540793, -3.046138)" x="152.009" y="23.787">Jordan River</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 5px; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 48.9378% 49.6763%;" transform="matrix(0.50086, -0.865528, 0.865528, 0.50086, 10.088796, -15.989558)" x="20.935" y="57.929">Canaan</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="9.459" y="100.525">0          10 Miles</text>
   <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 4px; white-space: pre;" x="9.344" y="112.21">0     10 Kilometers</text>
   <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); vector-effect: non-scaling-stroke; stroke-width: 6px; stroke-opacity: 0.65;" d="M 141.406 32.839 C 141.494 33.35 141.395 33.854 141.071 35.752 C 140.919 36.644 141.031 35.939 140.772 37.137 C 140.749 37.243 140.218 38.168 140.31 38.049"/>
   <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); vector-effect: non-scaling-stroke; stroke-width: 6px; stroke-opacity: 0.65;" d="M 143.169 38.342 C 141.496 38.232 139.375 38.052 137.701 38.114 C 137.204 38.132 137.561 38.096 136.839 38.306 C 136.68 38.352 136.557 38.425 136.005 38.684 C 135.979 38.696 135.466 39.052 135.445 39.026"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 2px; letter-spacing: 1px; text-anchor: end; white-space: pre;" x="79.746" y="24.068">Valley of Aijalon</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 2px; letter-spacing: 1px; text-anchor: end; white-space: pre;" x="79.746" y="24.068">Valley of Aijalon</text>
 </svg>
