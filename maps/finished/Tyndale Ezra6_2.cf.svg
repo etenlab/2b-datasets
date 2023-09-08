@@ -284,37 +284,37 @@
   <path class="cls-44" d="m273.31,230.98v-3.39m-28.87,3.24h29.24m-29.16,3.17v-6.41"/>
   <text class="cls-31" transform="translate(243 225.66)" style="font-family: Helvetica; font-size: 5px; white-space: pre;" x="0" y="0">0             100 Miles</text>
   <text class="cls-10" transform="matrix(1, 0, 0.012565, 1, 42.563831, 123.064499)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="0" y="0">Mediterranean Sea</text>
-  <text class="cls-13" transform="matrix(0.572133, 0.99758, -0.866288, 0.439254, 197.702637, 90.201241)" style="font-family: Helvetica; font-size: 5.14499px; font-weight: 400; letter-spacing: 1px; line-height: 6.58559px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 49.8552% 51.0029%;" x="0" y="0">Tigris River</text>
-  <text class="cls-8" transform="matrix(0.239098, -1.12487, 0.963239, 0.181851, 28.061996, 213.39415)" style="font-family: Helvetica; font-size: 4.38799px; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="0" y="0">Nile River</text>
+  <text class="cls-13" transform="matrix(0.490315, 1.040238, -0.873117, 0.422696, 198.124142, 89.566141)" style="font-family: Helvetica; font-size: 5.14499px; font-weight: 400; letter-spacing: 1px; line-height: 6.58559px; white-space: pre; transform-box: fill-box; transform-origin: 51.3961% 48.6318%; text-anchor: middle;" x="0" y="0">Tigris River</text>
+  <text class="cls-8" transform="matrix(0.239098, -1.12487, 0.963239, 0.181851, 28.061996, 213.39415)" style="font-family: Helvetica; font-size: 4.38799px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="0" y="0">Nile River</text>
   <text class="cls-10" transform="matrix(1, 0, -0.026437, 1, 80.968628, 242.027344)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="0" y="0">Red Sea</text>
   <text class="cls-10" transform="matrix(1, 0, 0.02103, 1, 310.890717, 33.287567)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: end; white-space: pre;" x="0" y="0">Caspian Sea</text>
-  <text class="cls-10" transform="matrix(1, 0, 0.006438, 1, 311.395599, 203.645905)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; white-space: pre; text-anchor: end;" x="0" y="0">Persian Gulf</text>
-  <text class="cls-41" style="font-family: Helvetica; font-weight: 400; white-space: pre; font-size: 7px;" x="88.26" y="162.501">Jerusalem</text>
+  <text class="cls-10" transform="matrix(1, 0, 0.006438, 1, 311.395599, 203.645905)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: end; white-space: pre;" x="0" y="0">Persian Gulf</text>
+  <text class="cls-41" style="font-family: Helvetica; font-weight: 400; white-space: pre; font-size: 7px;" x="87.239" y="162.955">Jerusalem</text>
   <text class="cls-25" transform="translate(40.82 185.05)" style="font-family: Helvetica; font-size: 6px; font-weight: 400; letter-spacing: 1px; white-space: pre;" x="0" y="0">Egypt</text>
   <text class="cls-25" style="font-family: Helvetica; font-size: 6px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="83.651" y="44.155">Cappadocia</text>
-  <text class="cls-27" transform="matrix(0.996388, -0.084914, 0.084914, 0.996388, 28.958318, 63.097389)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; white-space: pre; text-anchor: middle;" x="0" y="0">Pamphylia</text>
+  <text class="cls-27" transform="matrix(0.996388, -0.084914, 0.084914, 0.996388, 28.958318, 63.097389)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="0" y="0">Pamphylia</text>
   <text class="cls-25" style="font-family: Helvetica; font-size: 6px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="230.953" y="156.438">Babylonia</text>
   <text class="cls-22" transform="matrix(0.80799, 0.589196, -0.589196, 0.80799, 273.860291, 62.732712)" style="font-family: Helvetica; font-size: 6px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="0" y="0">Media</text>
   <text class="cls-19" transform="matrix(1.059999, -0.001287, -0.033243, 1.000041, 116.94368, 144.754684)" style="font-family: Helvetica; font-size: 5.99975px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 14.8744px 4.6864px;" x="0" y="0">Arabia</text>
-  <text class="cls-26" transform="matrix(0.908783, -0.417269, 0.417269, 0.908783, 25.331158, 44.6993)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50.1826% 53.4614%;" x="0" y="0">Phrygia</text>
-  <text class="cls-26" transform="matrix(0.896687, -0.442665, 0.442665, 0.896687, 70.010218, 68.927134)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50% 50%;" x="0" y="0">Cilicia</text>
-  <text class="cls-25" style="font-family: Helvetica; font-size: 6px; font-weight: 400; letter-spacing: 1px; white-space: pre; text-anchor: middle;" x="161.515" y="28.946">Armenia</text>
-  <text class="cls-41" style="font-family: Helvetica; font-size: 5px; font-weight: 400; text-anchor: end; white-space: pre;" x="116.029" y="25.576">to Ancyra</text>
-  <text class="cls-39" style="font-family: Helvetica; white-space: pre; font-size: 7px; text-anchor: end;" x="220.911" y="143.396">Babylon</text>
-  <text class="cls-39" style="font-family: Helvetica; white-space: pre; text-anchor: end; font-size: 7px;" x="85.06" y="151.164">Samaria</text>
+  <text class="cls-26" transform="matrix(0.908783, -0.417269, 0.417269, 0.908783, 25.248036, 44.734208)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50.0134% 50.1435%;" x="0" y="0">Phrygia</text>
+  <text class="cls-26" transform="matrix(0.896687, -0.442665, 0.442665, 0.896687, 70.010218, 68.927134)" style="font-family: Helvetica; font-size: 5px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 10.1654px 2.89193px;" x="0" y="0">Cilicia</text>
+  <text class="cls-25" style="font-family: Helvetica; font-size: 6px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="161.515" y="28.946">Armenia</text>
+  <text class="cls-41" style="font-family: Helvetica; font-size: 5px; font-weight: 400; text-anchor: end; white-space: pre;" x="116.202" y="27.937">to Ancyra</text>
+  <text class="cls-39" style="font-family: Helvetica; text-anchor: end; white-space: pre;" x="220.911" y="143.396">Babylon</text>
+  <text class="cls-39" style="font-family: Helvetica; text-anchor: end; white-space: pre; font-size: 7px;" x="85.111" y="151.831">Samaria</text>
   <text class="cls-39" style="font-family: Helvetica; text-anchor: end; white-space: pre;" x="126.147" y="52.038">Malatya</text>
-  <text class="cls-39" style="font-family: Helvetica; white-space: pre; text-anchor: end; font-size: 7px;" x="288.097" y="155.484">Susa</text>
+  <text class="cls-39" style="font-family: Helvetica; text-anchor: end; white-space: pre;" x="288.097" y="155.484">Susa</text>
   <text class="cls-39" transform="translate(238.83 136.66)" style="font-family: Helvetica; white-space: pre;" x="0" y="0">Nippur</text>
-  <text class="cls-39" style="font-family: Helvetica; white-space: pre; text-anchor: end; font-size: 7px;" x="287.02" y="98.709">Ecbatana</text>
-  <text class="cls-39" style="font-family: Helvetica; white-space: pre; font-size: 7px;" x="218.1" y="75.698">Arbela</text>
-  <text class="cls-34" transform="matrix(1.1099, -0.150081, 0.121143, 0.99272, 172.974319, 60.132282)" style="font-family: Helvetica; font-size: 4.9993px; font-weight: 400; letter-spacing: 1px; line-height: 8.10313px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50.2375% 53.9361%;" x="0" y="0">The Medo-Persian Empire</text>
+  <text class="cls-39" style="font-family: Helvetica; text-anchor: end; white-space: pre;" x="287.02" y="98.709">Ecbatana</text>
+  <text class="cls-39" style="font-family: Helvetica; white-space: pre;" x="218.1" y="75.698">Arbela</text>
+  <text class="cls-34" transform="matrix(1.1099, -0.150081, 0.121143, 0.99272, 172.969511, 60.154597)" style="font-family: Helvetica; font-size: 4.9993px; font-weight: 400; letter-spacing: 1px; line-height: 8.10313px; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50.0462% 54.6887%;" x="0" y="0">The Medo-Persian Empire</text>
   <text class="cls-31" transform="translate(167.47 227.67)" style="font-family: Helvetica; font-size: 4px; letter-spacing: -0.3px; white-space: pre;" x="0" y="0">Persian royal road</text>
   <text class="cls-31" transform="translate(167.4 235.66) scale(1.06 1)" style="font-family: Helvetica; font-size: 4px; white-space: pre;" x="0" y="0">Southern boundary of the empire </text>
-  <text class="cls-31" style="font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre;" x="11.832" y="150.28">North</text>
+  <text class="cls-31" style="font-family: Helvetica; font-size: 4px; text-anchor: middle; white-space: pre;" x="11.591" y="151.093">North</text>
   <path class="cls-47" d="m234.95,145.08l4-6.6M126.29,47.38l5.18-8.38"/>
   <text class="cls-31" transform="translate(243 239.77)" style="font-family: Helvetica; font-size: 5px; white-space: pre;" x="0" y="0">0       100 Kilometers</text>
   <line class="cls-44" x1="262.44" y1="234.01" x2="262.44" y2="230.62"/>
-  <text class="cls-6" transform="matrix(0.802769, 0.562105, -0.732739, 0.68329, 175.190826, 116.899918)" style="font-family: Helvetica; font-size: 5.65108px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="0" y="0">Euphrates River</text>
+  <text class="cls-6" transform="matrix(0.802769, 0.562105, -0.732739, 0.68329, 170.504944, 115.009491)" style="font-family: Helvetica; font-size: 5.65108px; font-weight: 400; letter-spacing: 1px; text-anchor: middle; white-space: pre;" x="0" y="0">Euphrates River</text>
   <text class="cls-35" style="font-family: Helvetica; font-size: 7px; white-space: pre;" x="0.778" y="11.833">New International Version and New Living Translation Ezra 6:2</text>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 10.2px;" x="279.79" y="55.427"> </text>
+  <text style="fill: rgb(51, 51, 51); font-family: Helvetica; font-size: 10.2px; white-space: pre;" x="279.79" y="55.427"> </text>
 </svg>
