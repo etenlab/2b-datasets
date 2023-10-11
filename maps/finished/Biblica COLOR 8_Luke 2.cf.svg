@@ -390,7 +390,7 @@
     <text class="cls-34" style="white-space: pre; text-anchor: end;" x="138.286" y="371.384"><tspan class="cls-54" x="138.286" y="371.384" style="font-size: 10px; word-spacing: 0px; letter-spacing: -0.3px;">Jerusalem</tspan></text>
     <text class="cls-38" transform="matrix(0.832051, 0.554699, -0.554699, 0.832051, 180.851868, 120.849838)" style="white-space: pre; text-anchor: middle;"><tspan x="0" y="0" style="font-size: 11px; word-spacing: 0px;">Galilee</tspan></text>
     <text class="cls-36" style="white-space: pre; text-anchor: end;" x="136.43" y="337.423"><tspan x="136.43" y="337.423" style="font-size: 11px; word-spacing: 0px; letter-spacing: 0.55px;">Judea</tspan></text>
-    <text class="cls-35" transform="matrix(0.241583, -0.97038, 0.97038, 0.241583, 41.749172, 217.237564)" style="white-space: pre;"><tspan x="0" y="0" style="font-size: 10px; word-spacing: 0px; letter-spacing: 0.5px;">Mediterranean Sea</tspan></text>
+    <text class="cls-35" transform="matrix(0.241583, -0.97038, 0.97038, 0.241583, 41.749172, 217.237564)" style="font-style: normal; white-space: pre;" x="0" y="0">Mediterranean Sea</text>
     <text class="cls-42" transform="matrix(0.159709, -0.987164, 0.987164, 0.159709, 198.574429, 418.712371)" style="font-style: normal; white-space: pre; font-size: 8px; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;" x="0" y="0">Dead Sea</text>
     <text class="cls-42" style="font-style: normal; white-space: pre;" x="244.406" y="120.489">Sea of Galilee</text>
     <text class="cls-42" transform="translate(211.79 283.99)" style="font-style: normal; letter-spacing: -0.32px; text-anchor: middle; white-space: pre;" x="0" y="0">Jordan</text>
