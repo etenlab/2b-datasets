@@ -1,0 +1,376 @@
+{
+    "page": {
+        "index": {
+            "language": {
+                "value": "Language",
+                "_context": "Indicates to the user that they should select a 'Language' for the application"
+            },
+            "book": {
+                "value": "Book",
+                "_context": "Indicates to the user that they should select a 'Book' of the Bible"
+            },
+            "passage": {
+                "value": "Passage",
+                "_context": "Indicates to the user that they should select a 'Passage' from their chosen 'Book'"
+            },
+            "go": {
+                "value": "Go",
+                "_context": "Indicates to the user that they can click on this button to move to next page with their given selections"
+            },
+            "downloadResourcesForOfflineUse": {
+                "value": "Going Offline? Get more Content",
+                "_context": "Button text telling the user to download resources for offline use"
+            },
+            "subTitle": {
+                "value": "Bible Well: Fed by Aquifer",
+                "_context": "Subtitle for the main page"
+            },
+            "loading": {
+                "value": "loading",
+                "_context": "Message to display in the options dropdown when things are loading"
+            }
+        },
+        "passage": {
+            "nav": {
+                "bible": {
+                    "value": "Bible",
+                    "_context": "Label for Bible button on navbar"
+                },
+                "guide": {
+                    "value": "Guide",
+                    "_context": "Label for Guide button on navbar"
+                },
+                "resources": {
+                    "value": "Resources",
+                    "_context": "Label for Resources button on navbar"
+                }
+            },
+            "resourcePane": {
+                "title": {
+                    "value": "Resources",
+                    "_context": "Title for the top of the resource pane on the passage page"
+                },
+                "basicTab": {
+                    "value": "Basic",
+                    "_context": "Tab with basic resources in the resource pane"
+                },
+                "advancedTab": {
+                    "value": "Advanced",
+                    "_context": "Tab with advanced resources in the resource pane"
+                },
+                "fullscreen": {
+                    "currentOfTotalLabel": {
+                        "value": "{current} of {total}",
+                        "_context": "Displays the current position out of the total fullscreen elements"
+                    }
+                },
+                "types": {
+                    "ubsImages": {
+                        "value": "Images (UBS)",
+                        "_context": "Images from the United Bible Society"
+                    },
+                    "tyndaleBibleDictionary": {
+                        "value": "Bible Dictionary (Tyndale)",
+                        "_context": "Tyndale Bible Dictionary"
+                    }
+                }
+            },
+            "noBibleContent": {
+                "header": {
+                    "value": "Resource Unavailable",
+                    "_context": "Header for when a Bible is not available in the current language"
+                },
+                "description": {
+                    "value": "No Bible is available on this device for {language}.<br />Do you want to use another language?",
+                    "_context": "Description for when a Bible is not available in the current language"
+                },
+                "bible": {
+                    "value": "Bible",
+                    "_context": "Placeholder for selecting a Bible to show"
+                },
+                "noneAvailableDescription": {
+                    "value": "No Bible is available on this device for {language} or any other language.<br />Please download the content when you are online.",
+                    "_context": "Description for when a Bible is not available in the current language or any other language"
+                },
+                "show": {
+                    "value": "Show",
+                    "_context": "Show button to load in another language's Bible"
+                },
+                "checkForMoreResources": {
+                    "value": "Check for more resources...",
+                    "_context": "Link to go to the file manager and see more resources if Bible not available in the current language"
+                }
+            },
+            "noCbbterContent": {
+                "value": "No CBBT-ER content found for this passage.",
+                "_context": "Message to display when the CBBT-ER content is not downloaded or available"
+            }
+        },
+        "fileManager": {
+            "title": {
+                "value": "Local File Manager",
+                "_context": "Title displayed on the file manager page"
+            },
+            "download": {
+                "value": "Download",
+                "_context": "Table column heading for the column with checkboxes allowing the user to select content to download"
+            },
+            "language": {
+                "value": "Language",
+                "_context": "Label for a dropdown allowing the user to select their language"
+            },
+            "passage": {
+                "value": "Passage",
+                "_context": "Table column heading for the column displaying passage names"
+            },
+            "book": {
+                "value": "Book",
+                "_context": "Table column heading for the column for displaying book names"
+            },
+            "size": {
+                "value": "Size",
+                "_context": "Table column heading for the column displaying file size"
+            },
+            "expand": {
+                "value": "Expand",
+                "_context": "Table column heading for the column with buttons allowing accordions to be expanded"
+            },
+            "type": {
+                "value": "Type",
+                "_context": "Table column heading for the column displaying media type"
+            },
+            "textType": {
+                "value": "Text",
+                "_context": "The media type for text, available to be downloaded"
+            },
+            "audioType": {
+                "value": "Audio",
+                "_context": "The media type for audio, available to be downloaded"
+            },
+            "mediaType": {
+                "value": "Media",
+                "_context": "The media type for media, available to be downloaded"
+            },
+            "imagesType": {
+                "value": "Images",
+                "_context": "The media type for images, available to be downloaded"
+            },
+            "update": {
+                "value": "Update",
+                "_context": "Button to download/delete content based on what the user selected"
+            },
+            "cancel": {
+                "value": "Cancel",
+                "_context": "Button to cancel current action"
+            },
+            "selectLanguage": {
+                "value": "Please select a language.",
+                "_context": "Placeholder for the language dropdown"
+            },
+            "selectResource": {
+                "value": "Please select a resource.",
+                "_context": "Placeholder for the resource dropdown"
+            },
+            "chooseResource": {
+                "value": "Choose a Resource",
+                "_context": "Label for a dropdown allowing the user to select a resource to view"
+            },
+            "files": {
+                "value": "files",
+                "_context": "Label for the files"
+            },
+            "noInternet": {
+                "value": "No Internet",
+                "_context": "Message to display when the user has no internet connection"
+            },
+            "selectABook": {
+                "value": "Select a Book",
+                "_context": "Label for a dropdown allowing the user to select a book to view"
+            },
+            "modal": {
+                "title": {
+                    "value": "Confirmation",
+                    "_context": "Title of the modal asking the user to confirm changes before syncing"
+                },
+                "description": {
+                    "value": "You are about to download {downloadSize} and delete {deleteSize} of content from your device.",
+                    "_context": "Shows on the modal asking the user to confirm changes before syncing"
+                },
+                "question": {
+                    "value": "How would you like to proceed?",
+                    "_context": "Question to ask the user before confirming"
+                },
+                "downloadProgress": {
+                    "value": "Download progress",
+                    "_context": "Title of the modal showing the user how the download is progressing"
+                },
+                "success": {
+                    "value": "Downloaded Successfully",
+                    "_context": "Title of the modal showing the download was successful"
+                },
+                "close": {
+                    "value": "Close",
+                    "_context": "Button to close the modal"
+                },
+                "downloadingDescription": {
+                    "value": "Downloading {totalSizeDownloaded} of {totalSizeToDownload}.",
+                    "_context": "Shows on the modal showing the user how the download is progressing"
+                }
+            },
+            "metaData": {
+                "description": {
+                    "value": "This is where you can download and delete Aquifer content from your device.",
+                    "_context": "Meta tag description"
+                }
+            },
+            "a11y": {
+                "expandResources": {
+                    "value": "Expand {bookName} Resources",
+                    "_context": "Accessibility label for the button to expand the resources"
+                },
+                "collapseResources": {
+                    "value": "Collapse {bookName} Resources",
+                    "_context": "Accessibility label for the button to collapse the resources"
+                }
+            },
+            "viewHeader": {
+                "name": {
+                    "value": "Name",
+                    "_context": "Label for the name column"
+                },
+                "text": {
+                    "value": "Text",
+                    "_context": "Label for the text column"
+                },
+                "audio": {
+                    "value": "Audio",
+                    "_context": "Label for the audio column"
+                },
+                "media": {
+                    "value": "Media",
+                    "_context": "Label for the media column"
+                }
+            },
+            "resourcesMenu": {
+                "cbbtEr": {
+                    "value": "CBBT-ER",
+                    "_context": "Label for the CBBT-ER resource"
+                },
+                "tyndaleBibleDictionary": {
+                    "value": "Tyndale Bible Dictionary",
+                    "_context": "Label for the Tyndale Bible Dictionary resource"
+                },
+                "tyndaleStudyNotes": {
+                    "value": "Tyndale Study Notes",
+                    "_context": "Label for the Tyndale Study Notes resource"
+                },
+                "videoBibleDictionary": {
+                    "value": "Video Bible Dictionary",
+                    "_context": "Label for the Video Bible Dictionary resource"
+                }
+            },
+            "viewRow": {
+                "resources": {
+                    "value": "Resources",
+                    "_context": "Label for the resources row"
+                }
+            }
+        }
+    },
+    "navTop": {
+        "recording": {
+            "value": "Make a recording",
+            "_context": "Button to create a recording for the passage"
+        },
+        "audioRecordingModal": {
+            "noPermission": {
+                "value": "Please update your settings and give permission for your microphone to be used",
+                "_context": "Text to display when the user has not given permission for the microphone"
+            },
+            "languageLabel": {
+                "value": "What language are you recording?",
+                "_context": "Label for the language input field"
+            },
+            "versionLabel": {
+                "value": "What is the name of the translation?",
+                "_context": "Label for the version input field"
+            },
+            "versionAbbreviationLabel": {
+                "value": "What is a 3-letter abbreviation for this translation?",
+                "_context": "Label for the version abbreviation input field"
+            },
+            "discard": {
+                "value": "Discard",
+                "_context": "Button to close the modal and discard changes"
+            },
+            "save": {
+                "value": "Save",
+                "_context": "Button to save the recording"
+            }
+        }
+    },
+    "resources": {
+        "cbbt-er": {
+            "step1": {
+                "value": "Hear and Heart",
+                "_context": "See CBBT-ER for translations of each step name"
+            },
+            "step2": {
+                "value": "Setting the Stage",
+                "_context": "See CBBT-ER for translations of each step name"
+            },
+            "step3": {
+                "value": "Defining the Scenes",
+                "_context": "See CBBT-ER for translations of each step name"
+            },
+            "step4": {
+                "value": "Embodying the Text",
+                "_context": "See CBBT-ER for translations of each step name"
+            },
+            "step5": {
+                "value": "Filling the Gaps",
+                "_context": "See CBBT-ER for translations of each step name"
+            },
+            "step6": {
+                "value": "Speaking the Word",
+                "_context": "See CBBT-ER for translations of each step name"
+            }
+        }
+    },
+    "sideMenu": {
+        "home": {
+            "value": "Home",
+            "_context": "The label for the home page"
+        },
+        "menu": {
+            "value": "Menu",
+            "_context": "The label for the menu"
+        },
+        "changeLanguage": {
+            "value": "Change Language...",
+            "_context": "The label for the change language button"
+        },
+        "fileManager": {
+            "value": "File Manager",
+            "_context": "The label for the file manager button"
+        }
+    },
+    "errorMessage": {
+        "error": {
+            "value": "Error",
+            "_context": "The label for the error message"
+        },
+        "title": {
+            "value": "Unable To Load Content",
+            "_context": "The title for the error message"
+        },
+        "message": {
+            "value": "If the issue persists, please check your internet connection.",
+            "_context": "The message for the error message"
+        },
+        "home": {
+            "value": "Home",
+            "_context": "The label for the home button"
+        }
+    }
+}
