@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 516.14 650.84">
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 516.14 650.84" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
@@ -220,26 +220,26 @@
     <rect class="cls-16" x="239.22" y="352.97" width="17.98" height="9.62" transform="translate(228.26 -77.21) rotate(32.12)"/>
   </g>
   <g id="Labels">
-    <text class="cls-19" transform="translate(239.52 345.73)"><tspan class="cls-29" x="0" y="0">T</tspan><tspan x="4.47" y="0">emple</tspan></text>
-    <text class="cls-21" transform="translate(152.07 528.79)"><tspan x="0" y="0">Herod</tspan><tspan class="cls-25" x="17.64" y="0">’</tspan><tspan x="18.65" y="0">s</tspan><tspan class="cls-27" x="2.18" y="6.4">P</tspan><tspan x="5.9" y="6.4">alace</tspan></text>
-    <text class="cls-19" transform="translate(222.86 554.98)"><tspan class="cls-28" x="0" y="0">T</tspan><tspan x="5.04" y="0">heater</tspan></text>
-    <text class="cls-19" transform="translate(209.77 468.47) rotate(-79.58)"><tspan x="0" y="0">Stadium</tspan></text>
-    <text class="cls-20" transform="translate(98.53 240.92)"><tspan x="0" y="0">Outer</tspan><tspan x="-2.67" y="8.8">Harbor</tspan></text>
-    <text class="cls-20" transform="translate(206.29 324.38)"><tspan x="0" y="0">Inner </tspan><tspan x="-2.34" y="8.8">Harbor</tspan></text>
-    <text class="cls-18" transform="translate(63.49 137.11)"><tspan x="0" y="0">MEDITERRANEAN</tspan><tspan x="41.43" y="12.4">SEA</tspan></text>
+    <text class="cls-19" transform="matrix(0.835238, 0.549888, -0.549888, 0.835238, 251.18095, 350.655861)" style="white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;"><tspan class="cls-29" x="0" y="0" style="font-size: 8px; word-spacing: 0px; letter-spacing: -0.48px;">Temple</tspan></text>
+    <text class="cls-21" transform="translate(152.07 528.79)" style="white-space: pre;"><tspan x="0" y="0">Herod’sPalace</tspan></text>
+    <text class="cls-19" transform="translate(222.86 554.98)" style="white-space: pre;"><tspan class="cls-28" x="0" y="0">Theater</tspan></text>
+    <text class="cls-19" transform="matrix(0.180862, -0.983508, 0.983508, 0.180862, 212.075485, 454.991211)" style="white-space: pre; text-anchor: middle;"><tspan x="0" y="0" style="font-size: 8px; word-spacing: 0px;">Stadium</tspan></text>
+    <text class="cls-20" style="font-style: normal; white-space: pre; font-size: 9px; text-anchor: middle;" x="115.759" y="250.666">Outer Harbor</text>
+    <text class="cls-20" transform="matrix(0.475072, -0.879947, 0.879947, 0.475072, 213.770757, 329.567564)" style="font-style: normal; white-space: pre; text-anchor: middle; font-size: 9px; transform-box: fill-box; transform-origin: 50% 50%;" x="0" y="0">Inner Harbor </text>
+    <text class="cls-18" style="font-style: normal; white-space: pre; font-size: 12px; text-anchor: middle;" x="137.566" y="104.608">Mediterranean Sea</text>
   </g>
-  <g id="Key">
-    <rect class="cls-22" x="387.17" y="31.75" width="83.91" height="75.87"/>
+  <g id="Key" transform="matrix(1, 0, 0, 1, -29.317844, 0.823267)">
+    <rect class="cls-22" x="387.17" y="31.75" width="112.715" height="75.87" style=""/>
     <g>
       <line class="cls-15" x1="397.78" y1="43.06" x2="419.38" y2="43.06"/>
-      <text class="cls-23" transform="translate(433.54 44.89)"><tspan x="0" y="0">City </tspan><tspan class="cls-25" x="12.76" y="0">W</tspan><tspan x="18.43" y="0">alls</tspan></text>
+      <text class="cls-23" transform="translate(433.54 44.89)" style="white-space: pre;"><tspan x="0" y="0">City Walls </tspan></text>
     </g>
     <g>
       <g>
         <line class="cls-5" x1="397.78" y1="58.35" x2="419.38" y2="58.35"/>
         <line class="cls-12" x1="397.78" y1="58.35" x2="419.38" y2="58.35"/>
       </g>
-      <text class="cls-23" transform="translate(433.54 60.48)"><tspan class="cls-31" x="0" y="0">R</tspan><tspan x="4.2" y="0">oad</tspan></text>
+      <text class="cls-23" transform="translate(433.54 60.48)" style="white-space: pre;"><tspan class="cls-31" x="0" y="0">Road</tspan></text>
     </g>
     <g>
       <g>
@@ -250,14 +250,14 @@
           <line class="cls-11" x1="418.88" y1="74.14" x2="419.38" y2="74.14"/>
         </g>
       </g>
-      <text class="cls-23" transform="translate(433.59 76.08)"><tspan x="0" y="0">Aqueduct</tspan></text>
+      <text class="cls-23" transform="translate(433.59 76.08)" style="white-space: pre;"><tspan x="0" y="0">Aqueduct</tspan></text>
     </g>
     <g>
       <rect class="cls-16" x="401.38" y="85.69" width="14.4" height="14.4"/>
-      <text class="cls-23" transform="translate(433.54 94.84)"><tspan x="0" y="0">Buildings</tspan></text>
+      <text class="cls-23" transform="translate(433.54 94.84)" style="white-space: pre;"><tspan x="0" y="0">Buildings</tspan></text>
     </g>
   </g>
-  <g id="Scales">
+  <g id="Scales" transform="matrix(1, 0, 0, 1, -28.385632, 0.463789)">
     <g>
       <line class="cls-10" x1="283.95" y1="596.22" x2="283.95" y2="591.42"/>
       <line class="cls-10" x1="368.6" y1="596.22" x2="368.6" y2="591.42"/>
@@ -265,8 +265,8 @@
       <line class="cls-10" x1="326.01" y1="594.78" x2="326.01" y2="591.42"/>
       <line class="cls-10" x1="411.19" y1="594.78" x2="411.19" y2="591.42"/>
       <line class="cls-10" x1="283.95" y1="591.42" x2="453.26" y2="591.42"/>
-      <text class="cls-19" transform="translate(282.25 602.89)"><tspan x="0" y="0">0</tspan></text>
-      <text class="cls-19" transform="translate(447.69 602.89)"><tspan x="0" y="0">500 m</tspan></text>
+      <text class="cls-19" transform="translate(282.25 602.89)" style="white-space: pre;"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-19" transform="translate(447.69 602.89)" style="white-space: pre;"><tspan x="0" y="0">500 meters</tspan></text>
     </g>
     <g>
       <line class="cls-10" x1="283.56" y1="589.1" x2="283.56" y2="584.3"/>
@@ -275,12 +275,12 @@
       <line class="cls-10" x1="323.82" y1="589.1" x2="323.82" y2="585.74"/>
       <line class="cls-10" x1="404.82" y1="589.1" x2="404.82" y2="585.74"/>
       <line class="cls-10" x1="283.56" y1="589.1" x2="445.09" y2="589.1"/>
-      <text class="cls-19" transform="translate(281.92 581.99)"><tspan x="0" y="0">0</tspan></text>
-      <text class="cls-19" transform="translate(439.37 581.99)"><tspan x="0" y="0">500 </tspan><tspan class="cls-26" x="13.25" y="0">y</tspan><tspan x="16.48" y="0">ds</tspan></text>
+      <text class="cls-19" transform="translate(281.92 581.99)" style="white-space: pre;"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-19" transform="translate(439.37 581.99)" style="white-space: pre;"><tspan x="0" y="0">500 yards </tspan></text>
     </g>
   </g>
   <g id="Compass">
-    <text class="cls-30" transform="translate(46.53 66.19)"><tspan x="0" y="0">µ</tspan></text>
+    <text class="cls-30" transform="translate(46.53 66.19)" style="white-space: pre;"><tspan x="0" y="0">µ</tspan></text>
   </g>
   <g id="Frame">
     <rect class="cls-8" x="39.08" y="31.75" width="432" height="576"/>
