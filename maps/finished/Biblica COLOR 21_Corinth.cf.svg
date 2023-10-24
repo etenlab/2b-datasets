@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 533.62 650.64" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #2f67b2;
+      }
+
+      .cls-2, .cls-15, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-16, .cls-9, .cls-10, .cls-13, .cls-14 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-15, .cls-7, .cls-8, .cls-13, .cls-14 {
+        stroke-linecap: round;
+      }
+
+      .cls-17 {
+        letter-spacing: .02em;
+      }
+
+      .cls-15 {
+        fill: rgba(255, 255, 255, .2);
+        stroke-dasharray: 0 0 3 3;
+      }
+
+      .cls-15, .cls-4, .cls-18, .cls-8, .cls-16, .cls-14 {
+        stroke: #010101;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-19 {
+        font-size: 4px;
+      }
+
+      .cls-19, .cls-20 {
+        font-family: ESRIDefaultMarker, ESRIDefaultMarker;
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-16, .cls-12 {
+        stroke-width: .5px;
+      }
+
+      .cls-19, .cls-20, .cls-22, .cls-23, .cls-12 {
+        stroke: #231f20;
+      }
+
+      .cls-19, .cls-20, .cls-18 {
+        fill: #fff;
+      }
+
+      .cls-24 {
+        letter-spacing: .23em;
+      }
+
+      .cls-25 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-26 {
+        font-size: 5px;
+      }
+
+      .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34 {
+        font-family: Garamond, Garamond;
+      }
+
+      .cls-26, .cls-35, .cls-28, .cls-36, .cls-29, .cls-33, .cls-37 {
+        fill: #231f20;
+      }
+
+      .cls-20, .cls-28, .cls-38 {
+        font-size: 8px;
+      }
+
+      .cls-4, .cls-5, .cls-10, .cls-13, .cls-14 {
+        stroke-width: 3px;
+      }
+
+      .cls-5, .cls-7, .cls-13 {
+        stroke: #000;
+      }
+
+      .cls-27 {
+        font-size: 9px;
+      }
+
+      .cls-27, .cls-30, .cls-31, .cls-38, .cls-32, .cls-39, .cls-34 {
+        fill: #010101;
+      }
+
+      .cls-40 {
+        letter-spacing: .02em;
+      }
+
+      .cls-6 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-6, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-35, .cls-36, .cls-38, .cls-37 {
+        font-family: Garamond-Italic, Garamond;
+        font-style: italic;
+      }
+
+      .cls-35, .cls-29 {
+        font-size: 6px;
+      }
+
+      .cls-41 {
+        letter-spacing: .13em;
+      }
+
+      .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-21 {
+        fill: #9fc9eb;
+        stroke: #676767;
+      }
+
+      .cls-21, .cls-22, .cls-18, .cls-23, .cls-12 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-42 {
+        letter-spacing: .01em;
+      }
+
+      .cls-43 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-36 {
+        font-size: 13px;
+        letter-spacing: .1em;
+      }
+
+      .cls-22 {
+        fill: #fcf9ce;
+      }
+
+      .cls-23 {
+        fill: #f9f8db;
+      }
+
+      .cls-44 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-45 {
+        letter-spacing: .02em;
+      }
+
+      .cls-30 {
+        font-size: 14px;
+      }
+
+      .cls-8 {
+        stroke-width: .96px;
+      }
+
+      .cls-16 {
+        fill: #f69999;
+      }
+
+      .cls-46 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-31 {
+        font-size: 12px;
+      }
+
+      .cls-32 {
+        font-size: 10px;
+      }
+
+      .cls-9 {
+        stroke-width: 1.2px;
+      }
+
+      .cls-39 {
+        font-family: ESRINorth, ESRINorth;
+        font-size: 38px;
+      }
+
+      .cls-47 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-48 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        stroke: #aca551;
+        stroke-dasharray: 0 0 .5 1;
+      }
+
+      .cls-49 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-33, .cls-34, .cls-37 {
+        font-size: 7px;
+      }
+
+      .cls-50 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-51 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-52 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-53 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="35.33" y="43.05" width="432" height="576"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="35.33" y="43.05" width="432" height="576"/>
+    </clipPath>
+    <bx:guide x="564.0617249488629" y="55.56883031365055" angle="0"/>
+    <bx:guide x="-51.58073150830404" y="182.17995449212583" angle="0"/>
+  </defs>
+  <g id="Color_Base" data-name="Color Base">
+    <rect class="cls-22" x="35.33" y="43.05" width="432" height="576"/>
+  </g>
+  <g id="Gulf">
+    <path class="cls-21" d="m344.05,141.83c15.19,2.48,16.82,8.64,28.63,11.87,10.46,8.09,13.43,1.44,27.91-1.57,22.47-4.66,8.14-10.89,36.26-14.34,12.62-5.79,22.7-8.17,35.22-10.17,17.24-3.17,1.04-50.03,2.87-60.79.52-1.3,6-43.3,6-43.3C399.36-7.96,101.2,1.62,11.9,1.62c0,0,18.26,87.65,18.26,87.65,22.52,2.62,40.29,12.5,63.39,20.35,19.47,2.93,32.2-1.69,47.48,8.61,23.94,14.42,53.28,24.32,81.39,24,14.89.54,15.72-7.96,26.35-10.44,17.22,1.89,31.31-13.24,57.91-7.95,6.59,1.31,13.17-.64,18.98,5.67,3.72,4.89,7.63,9.34,11.74,11.35,2.15.98,6.65.98,6.65.98Z"/>
+  </g>
+  <g id="River">
+    <path class="cls-2" d="m350.25,650.14c4.87-15.91,17.43-51.75,12.52-67.04-13.57-42.26,41.69-57.28,52.44-85.3,3.47-9.42-8.74-19.69-12-27.13-6.52-14.87-11.74-37.82-.52-51.65,30.67-37.8,41.48-98.87,86.09-140.35"/>
+  </g>
+  <g id="Walls">
+    <polyline class="cls-13" points="352.07 144.57 335.44 278.4 341.51 313.03"/>
+    <path class="cls-13" d="m232.92,141.64l2.54,206.22h7.43v8.61h-5.87v11.35l24.65-.39,87.85-35.41,2.35,21.33,16.04,25.63h11.74l.98,18.98,1.96,8.02s-.59,4.5-1.57,4.7-4.11,2.54-4.11,3.13,5.28,4.89,5.28,4.89c0,0,2.15,2.54,2.54,3.91s-.59,8.02-.59,8.02l-5.09,5.87-5.09,3.72-5.28,10.96-3.72,3.33-2.35,4.11v3.91l-2.93,6.26-10.57,7.83v12.52l-9.2,8.61-5.87,1.17s-.98,0-1.57-.39-1.76-1.37-1.76-1.37l-.98-.98-9.2,2.54-.39,4.11-6.26,1.17-5.87,13.11-10.37,12.52-7.83,7.43-3.72,3.91-2.54,10.76-3.13,5.67-5.48,3.72-9.2,3.52-1.76.78-48.72,2.15,2.35-7.04.59-6.46s-1.17-4.7-1.37-5.28-1.37-2.35-2.15-2.93-4.89-2.15-4.89-2.15l-3.33,2.74-4.5,3.52-6.07.2-2.93,1.57s-3.52,4.89-3.91,5.48-2.54,4.3-2.54,5.09-4.89,1.17-4.89,1.17c0,0-1.96,0-3.13-.78s-3.91-1.57-3.91-1.57c0,0-2.74.2-3.52-.2s-5.87-2.15-5.87-2.15c0,0-2.74-1.96-3.13-2.93s-.98,1.37-.59-1.96.78-3.52.39-5.28.59-1.37-.39-1.76-2.93-.59-3.91-.39-2.15.2-3.13.78-1.57,2.35-1.57,2.35l-.2,2.15v1.37s0-.2.39.98.39,1.96.39,2.74.2.98-.39,1.76.2,3.72.2,3.72l-2.15,2.93-2.15,3.33-4.5,3.33,3.52,4.11-4.3,2.15-19.57-.78-1.96-24.46-7.24-1.96,1.57-5.67-6.07-5.28,5.48-43.04-3.52-1.17-1.17-14.48-13.7-40.89,14.87-5.28,4.7-5.48-10.37-17.8,5.28-8.22,20.35-4.3.98-13.11,8.02-3.91,18.39,8.22,33.07-21.52,6.46,5.28,7.63-7.24,23.48.39.39,5.28,3.13.2,2.93-3.72"/>
+  </g>
+  <g id="Roads">
+    <g id="Road_Base" data-name="Road Base">
+      <g class="cls-11">
+        <path class="cls-5" d="m225.42,438.7l-.91,35.35s-17.09,11.09-25.83,12.91c-9.39,1.96-9.78,6.65-9.78,6.65,2.87,3.14,32.65,6.35,25.04,12.91-5.54,7.79-44.32,2.56-47.35,7.43-1.37,2.22,10.52,7.71,23.87,14.48-11.75,7.72-34.89,4.06-47.74,11.35l-4.3,6.26v31.3l-35.61,44.22"/>
+        <path class="cls-5" d="m1.07,510.05l135-24.65,11.35-1.17s45-17.22,47.74-18.78c2.36-1.35,25.62-18.62,31.43-22.96"/>
+        <polyline class="cls-5" points="225.16 443.53 231.93 443.83 363.42 441.18 478.07 492.44"/>
+        <polyline class="cls-5" points="449.9 627.83 325.07 501.44 323.51 493.22 244.46 456.44 231.93 443.83"/>
+        <polyline class="cls-5" points=".29 351.18 115.33 373.88 139.59 389.14 154.86 399.31 204.03 406.88"/>
+        <polyline class="cls-5" points="234.42 407.27 269.9 373.88 282.03 356.27 283.2 346.09 343.86 321.44 533.25 273.31"/>
+        <polyline class="cls-5" points="66.03 364.09 227.64 354.7 283.2 346.09"/>
+        <line class="cls-5" x1="289.07" y1="342.96" x2="298.27" y2="146.53"/>
+      </g>
+    </g>
+    <g id="Road_Highlight" data-name="Road Highlight">
+      <g class="cls-3">
+        <path class="cls-6" d="m225.42,438.7l-.91,35.35s-17.09,11.09-25.83,12.91c-9.39,1.96-9.78,6.65-9.78,6.65,2.87,3.14,32.65,6.35,25.04,12.91-5.54,7.79-44.32,2.56-47.35,7.43-1.37,2.22,10.52,7.71,23.87,14.48-11.75,7.72-34.89,4.06-47.74,11.35l-4.3,6.26v31.3l-35.61,44.22"/>
+        <path class="cls-6" d="m1.07,510.05l135-24.65,11.35-1.17s45-17.22,47.74-18.78c2.39-1.36,25.01-18.29,30.39-22.3"/>
+        <polyline class="cls-6" points="225.16 443.53 231.93 443.83 363.42 441.18 478.07 492.44"/>
+        <polyline class="cls-6" points="449.9 627.83 325.07 501.44 323.51 493.22 244.46 456.44 231.93 443.83"/>
+        <polyline class="cls-6" points=".29 351.18 115.33 373.88 139.59 389.14 154.86 399.31 204.42 407.01"/>
+        <polyline class="cls-6" points="234.16 407.4 269.9 373.88 282.03 356.27 283.2 346.09 343.86 321.44 533.25 273.31"/>
+        <polyline class="cls-6" points="66.03 364.09 227.64 354.7 283.2 346.09"/>
+        <line class="cls-6" x1="289.07" y1="342.96" x2="298.27" y2="146.53"/>
+      </g>
+    </g>
+  </g>
+  <g id="Hill">
+    <path class="cls-10" d="m141.68,581.79c2.37.84,6.73,4.91,8.74,2.74,7.54,4.69,17.76,5.73,25.04,9.39,17.26-.83,37.65-7.43,45.52-24"/>
+  </g>
+  <g id="Buildings">
+    <ellipse class="cls-16" cx="340.14" cy="384.05" rx="6.46" ry="9.78"/>
+  </g>
+  <g id="Sites">
+    <text class="cls-20" transform="translate(143.92 470.58)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+    <text class="cls-20" transform="translate(208.88 377.05)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+    <text class="cls-20" transform="translate(196.35 568.01)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+  </g>
+  <g id="Labels">
+    <text class="cls-28" style="white-space: pre;" x="228.863" y="579.452"><tspan class="cls-46" x="228.863" y="579.452" style="font-size: 8px; word-spacing: 0px; letter-spacing: -0.48px;">Temple ofAphrodite</tspan></text>
+    <text class="cls-28" style="white-space: pre; text-anchor: middle;" x="145.551" y="463.144"><tspan x="145.551" y="463.144" style="font-size: 8px; word-spacing: 0px;">Anaploga</tspan></text>
+    <text class="cls-28" style="white-space: pre; text-anchor: middle;" x="333.596" y="400.09"><tspan x="333.596" y="400.09" style="font-size: 8px; word-spacing: 0px;">Amphitheater</tspan></text>
+    <text class="cls-28" style="white-space: pre; text-anchor: middle;" x="218.759" y="384.341"><tspan class="cls-46" x="218.759" y="384.341" style="font-size: 8px; word-spacing: 0px; letter-spacing: -0.48px;">Temple ofAsklepios</tspan></text>
+    <text class="cls-28" transform="translate(121 497.25)" style="white-space: pre;"><tspan x="0" y="0">Philiasian Gate</tspan></text>
+    <text class="cls-28" transform="translate(335 506.56)" style="white-space: pre;"><tspan x="0" y="0">Southeast Gate</tspan></text>
+    <text class="cls-28" style="white-space: pre; text-anchor: end;" x="370.205" y="436.772"><tspan x="370.205" y="436.772" style="font-size: 8px; word-spacing: 0px;">Cenchrean Gate</tspan></text>
+    <text class="cls-38" transform="translate(101 618.12) rotate(-52.7)" style="font-style: normal; letter-spacing: -0.32px; white-space: pre;" x="0" y="0">To Tenea</text>
+    <text class="cls-38" transform="translate(39.19 499.12) rotate(-10.41)" style="font-style: normal; letter-spacing: -0.32px; white-space: pre;" x="0" y="0">To Phleious</text>
+    <text class="cls-38" transform="matrix(0.982839, 0.184466, -0.184466, 0.982839, 37.608299, 354.11911)" style="font-style: normal; letter-spacing: -0.32px; white-space: pre; font-size: 8px;" x="0" y="0">To Sicyon</text>
+    <text class="cls-38" transform="matrix(0.968453, -0.249197, 0.249197, 0.968453, 463.575195, 286.552124)" style="font-style: normal; letter-spacing: -0.32px; white-space: pre; text-anchor: end; font-size: 8px;" x="0" y="0">To Isthmia</text>
+    <text class="cls-38" transform="matrix(0.921998, 0.387194, -0.387194, 0.921998, 462.224762, 479.581696)" style="font-style: normal; letter-spacing: -0.32px; white-space: pre; text-anchor: end; font-size: 8px;" x="0" y="0">To Cecnhreae</text>
+    <text class="cls-38" transform="matrix(0.717762, 0.696289, -0.696289, 0.717762, 395.056061, 566.947876)" style="font-style: normal; letter-spacing: -0.32px; white-space: pre; font-size: 8px; text-anchor: end;" x="0" y="0">To Mycenae</text>
+    <text class="cls-36" style="font-style: normal; white-space: pre; text-anchor: middle; font-size: 13px;" x="345.203" y="103.166">Gulf of Corinth</text>
+    <text class="cls-31" style="white-space: pre; text-anchor: middle;" x="258.108" y="502.49"><tspan x="258.108" y="502.49" style="font-size: 12px; word-spacing: 0px;">Craneum</tspan></text>
+    <text class="cls-32" style="font-size: 9px; text-anchor: middle; white-space: pre;" x="180.962" y="579.862">Acrocorinth</text>
+    <text class="cls-31" transform="translate(209.96 428.06)" style="white-space: pre;"><tspan x="0" y="0">Forum</tspan></text>
+    <text class="cls-35" transform="translate(252.74 422.5)" style="font-style: normal; white-space: pre;" x="0" y="0">See inset</text>
+    <text class="cls-30" style="white-space: pre; text-anchor: middle;" x="294.112" y="143.834"><tspan x="294.112" y="143.834" style="font-size: 14px; word-spacing: 0px;">Lechaeum</tspan></text>
+    <line class="cls-12" x1="228.42" y1="576.05" x2="203.38" y2="567.18"/>
+    <text class="cls-28" style="white-space: pre; text-anchor: end;" x="128.54" y="584.868"><tspan class="cls-46" x="128.54" y="584.868" style="font-size: 8px; word-spacing: 0px; letter-spacing: -0.48px;">Teneatic Gate?</tspan></text>
+    <text class="cls-28" style="white-space: pre; text-anchor: end;" x="129.035" y="391.978"><tspan x="129.035" y="391.978" style="font-size: 8px; word-spacing: 0px;">Sicyonian Gate?</tspan></text>
+    <text class="cls-38" transform="matrix(0.45896, -0.888457, 0.888457, 0.45896, 426.878235, 370.063782)" style="font-style: normal; white-space: pre; text-anchor: middle; font-size: 8px;" x="0" y="0">Xerias River</text>
+  </g>
+  <g id="Inset_Marker" data-name="Inset Marker">
+    <rect class="cls-15" x="200.25" y="404.46" width="50.48" height="37.11"/>
+  </g>
+  <g id="Inset">
+    <g id="Base" style="" transform="matrix(1.136131, 0, 0, 1, -4.809514, 0)">
+      <rect class="cls-23" x="35.33" y="43.05" width="178.96" height="125.78"/>
+    </g>
+    <g id="Inset_Buildings" data-name="Inset Buildings">
+      <path class="cls-16" d="m84.42,54.05c3.77,26.24-37.98,32.38-41.35,6.13-.22-1.46-.27-2.86-.16-4.18l41.51-1.95Z"/>
+      <rect class="cls-16" x="58.61" y="49.35" width="7.83" height="4.19" transform="translate(-3.18 4.13) rotate(-3.69)"/>
+      <rect class="cls-16" x="121.04" y="55.63" width="20.78" height="16.18" transform="translate(-14.42 55.8) rotate(-22.76)"/>
+      <rect class="cls-16" x="125.66" y="79.85" width="19.11" height="7.7" transform="translate(-21.03 54.11) rotate(-21.04)"/>
+      <rect class="cls-16" x="108.81" y="103.09" width="6.78" height="3.13" transform="translate(-21.29 29) rotate(-13.47)"/>
+      <rect class="cls-16" x="182.69" y="135.45" width="8.99" height="4.09" transform="translate(-38.35 82.04) rotate(-22.48)"/>
+      <rect class="cls-16" x="192" y="93.96" width="8.07" height="13.3" transform="translate(-22.24 70.44) rotate(-19.3)"/>
+      <rect class="cls-16" x="145.33" y="128.92" width="57.44" height="8.39" transform="translate(-37.46 75.89) rotate(-22.27)"/>
+      <rect class="cls-16" x="81.42" y="119.35" width="41.18" height="22.21" transform="translate(-29.67 30.04) rotate(-14.65)"/>
+      <rect class="cls-16" x="123.96" y="100.75" width="36.22" height="3.1" transform="translate(-25.97 53.21) rotate(-19.47)"/>
+      <rect class="cls-16" x="150" y="77.14" width="19.11" height="7.7" transform="translate(212.9 -89.8) rotate(80.44)"/>
+    </g>
+    <g id="Inset_Sites" data-name="Inset Sites">
+      <text class="cls-19" transform="translate(134.27 116.84)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+      <text class="cls-19" transform="translate(137.08 125.11)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+      <text class="cls-19" transform="translate(138.49 128.58)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+      <text class="cls-19" transform="translate(169.02 120.11)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+      <text class="cls-19" transform="translate(176.58 96.5)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+    </g>
+    <g id="Inset_Labels" data-name="Inset Labels">
+      <text class="cls-29" transform="translate(41.7 81.42)" style="white-space: pre;"><tspan class="cls-45" x="0" y="0">Theater</tspan></text>
+      <text class="cls-29" transform="translate(141.87 52.77)" style="white-space: pre;"><tspan x="0" y="0">North Market</tspan></text>
+      <text class="cls-29" style="white-space: pre; text-anchor: end;" x="123.817" y="88.285"><tspan class="cls-46" x="123.817" y="88.285" style="font-size: 6px; word-spacing: 0px; letter-spacing: -0.36px;">Temple of Athena </tspan></text>
+      <text class="cls-29" style="white-space: pre; text-anchor: end;" x="106.168" y="106.752"><tspan class="cls-46" x="106.168" y="106.752" style="font-size: 6px; word-spacing: 0px; letter-spacing: -0.36px;">Temple of Hera</tspan></text>
+      <text class="cls-29" style="white-space: pre; text-anchor: end;" x="77.866" y="138.606"><tspan class="cls-46" x="77.866" y="138.606" style="font-size: 6px; word-spacing: 0px; letter-spacing: -0.36px;">Temple</tspan></text>
+      <text class="cls-29" transform="translate(141.24 152.2)" style="white-space: pre;"><tspan x="0" y="0">South Stoa</tspan></text>
+      <text class="cls-29" transform="translate(185.66 146.3)" style="white-space: pre;"><tspan x="0" y="0">South Basilica</tspan></text>
+      <text class="cls-29" style="white-space: pre;" x="195.715" y="91.614"><tspan x="195.715" y="91.614" style="font-size: 6px; word-spacing: 0px;">South Basilica</tspan></text>
+      <text class="cls-29" transform="matrix(0.941764, -0.336274, 0.336274, 0.941764, 120.617027, 106.419212)" style="white-space: pre;"><tspan x="0" y="0" style="font-size: 6px; word-spacing: 0px;">Northwest Stoa</tspan></text>
+      <text class="cls-26" style="white-space: pre; text-anchor: middle;" x="136.505" y="113.641"><tspan class="cls-50" x="136.505" y="113.641" style="font-size: 5px; word-spacing: 0px; letter-spacing: -0.2px;">Fountain</tspan></text>
+      <text class="cls-26" style="white-space: pre; text-anchor: middle;" x="142.053" y="121.423"><tspan class="cls-46" x="142.053" y="121.423" style="font-size: 5px; word-spacing: 0px; letter-spacing: -0.3px;">Temple of Apollo</tspan></text>
+      <text class="cls-26" style="white-space: pre; text-anchor: middle;" x="146.999" y="132.619"><tspan class="cls-46" x="146.999" y="132.619" style="font-size: 5px; word-spacing: 0px; letter-spacing: -0.3px;">Temple of Aphrodite</tspan></text>
+      <text class="cls-26" style="white-space: pre; text-anchor: middle;" x="168.74" y="123.6"><tspan x="168.74" y="123.6" style="font-size: 5px; word-spacing: 0px;">Bema*</tspan></text>
+      <text class="cls-37" transform="translate(37.16 166.36)" style="font-style: normal; white-space: pre;" x="0" y="0">*Site of Paul's Trial</text>
+      <text class="cls-26" style="white-space: pre; text-anchor: middle;" x="175.619" y="100.79"><tspan class="cls-50" x="175.619" y="100.79" style="font-size: 5px; word-spacing: 0px; letter-spacing: -0.2px;">Fountain</tspan></text>
+      <text class="cls-29" transform="translate(164.22 77.83)" style="white-space: pre;"><tspan x="0" y="0">Basilica</tspan></text>
+      <text class="cls-27" transform="translate(155.1 112.95)" style="white-space: pre;"><tspan x="0" y="0">Forum</tspan></text>
+    </g>
+  </g>
+  <g id="Key">
+    <rect class="cls-18" x="380.23" y="569.4" width="87.11" height="49.65"/>
+    <g>
+      <line class="cls-14" x1="387.85" y1="577.59" x2="409.45" y2="577.59"/>
+      <text class="cls-34" style="white-space: pre;" x="414.24" y="579.978"><tspan x="414.24" y="579.978" style="font-size: 7px; word-spacing: 0px;">City Walls </tspan></text>
+    </g>
+    <g>
+      <g>
+        <line class="cls-4" x1="387.85" y1="590.94" x2="409.45" y2="590.94"/>
+        <line class="cls-9" x1="387.85" y1="590.94" x2="409.45" y2="590.94"/>
+      </g>
+      <text class="cls-34" style="white-space: pre;" x="413.649" y="593.238"><tspan x="413.649" y="593.238" style="font-size: 7px; word-spacing: 0px;">Major Roads </tspan></text>
+    </g>
+    <g>
+      <rect class="cls-16" x="391.97" y="599.79" width="14.4" height="14.4"/>
+      <text class="cls-34" style="white-space: pre;" x="413.91" y="610.048"><tspan x="413.91" y="610.048" style="font-size: 7px; word-spacing: 0px;">Buildings</tspan></text>
+    </g>
+  </g>
+  <g id="Scales" transform="matrix(1, 0, 0, 1, -27.9932, -1.094886)">
+    <g>
+      <line class="cls-8" x1="393.6" y1="68.9" x2="393.6" y2="64.1"/>
+      <line class="cls-8" x1="420.72" y1="68.9" x2="420.72" y2="64.1"/>
+      <line class="cls-8" x1="447.83" y1="68.9" x2="447.83" y2="64.1"/>
+      <line class="cls-8" x1="407.08" y1="67.46" x2="407.08" y2="64.1"/>
+      <line class="cls-8" x1="434.36" y1="67.46" x2="434.36" y2="64.1"/>
+      <line class="cls-8" x1="393.6" y1="64.1" x2="447.83" y2="64.1"/>
+      <text class="cls-33" transform="translate(391.96 75.42)" style="white-space: pre;"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-33" transform="translate(443.48 75.42)" style="white-space: pre;"><tspan x="0" y="0">500 meters</tspan></text>
+    </g>
+    <g>
+      <line class="cls-8" x1="393.5" y1="61.78" x2="393.5" y2="56.98"/>
+      <line class="cls-8" x1="419.29" y1="61.78" x2="419.29" y2="56.98"/>
+      <line class="cls-8" x1="445.24" y1="61.78" x2="445.24" y2="56.98"/>
+      <line class="cls-8" x1="406.4" y1="61.78" x2="406.4" y2="58.42"/>
+      <line class="cls-8" x1="432.34" y1="61.78" x2="432.34" y2="58.42"/>
+      <line class="cls-8" x1="393.5" y1="61.78" x2="445.24" y2="61.78"/>
+      <text class="cls-33" transform="translate(392.17 54.53)" style="white-space: pre;"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-33" transform="translate(439.95 54.53)" style="white-space: pre;"><tspan x="0" y="0">500 yards </tspan></text>
+    </g>
+  </g>
+  <g id="Compass">
+    <text class="cls-39" transform="translate(42.1 613.53)" style="white-space: pre;"><tspan x="0" y="0">µ</tspan></text>
+  </g>
+  <g id="Frame">
+    <rect class="cls-7" x="35.33" y="43.05" width="432" height="576"/>
+  </g>
+</svg>
