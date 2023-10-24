@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768.84 527.9">
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 768.84 527.9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
       .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
@@ -288,117 +288,69 @@
       <polygon class="cls-22" points="140.43 109.97 142.54 111.92 148.5 103.71 146.35 102.09 140.43 109.97"/>
     </g>
   </g>
-  <g id="Sites">
-    <text class="cls-25" transform="translate(421.72 187.69)"><tspan x="0" y="0">!</tspan></text>
-    <text class="cls-24" transform="translate(202.39 362.08)"><tspan x="0" y="0">X</tspan></text>
-    <text class="cls-24" transform="translate(400.58 222.83)"><tspan x="0" y="0">X</tspan></text>
-    <text class="cls-24" transform="translate(177.28 92)"><tspan x="0" y="0">X</tspan></text>
-    <text class="cls-25" transform="translate(177.35 270.98)"><tspan x="0" y="0">!</tspan></text>
+  <g id="Sites" transform="matrix(1, 0, 0, 1, -0.264226, 0.348028)">
+    <text class="cls-25" transform="translate(421.72 187.69)" style="white-space: pre;"><tspan x="0" y="0">!</tspan></text>
+    <text class="cls-24" transform="translate(202.39 362.08)" style="white-space: pre;"><tspan x="0" y="0">X</tspan></text>
+    <text class="cls-24" transform="translate(400.58 222.83)" style="white-space: pre;"><tspan x="0" y="0">X</tspan></text>
+    <text class="cls-24" transform="translate(177.28 92)" style="white-space: pre;"><tspan x="0" y="0">X</tspan></text>
+    <text class="cls-25" style="white-space: pre;" x="178.365" y="270.388"><tspan x="178.365" y="270.388" style="font-size: 6px; word-spacing: 0px;">!</tspan></text>
   </g>
   <g id="Labels">
-    <text class="cls-7" transform="translate(73.11 77.81)"><tspan x="0" y="0">Harbor</tspan></text>
-    <text class="cls-6" transform="translate(199.39 113.43)"><tspan x="0" y="0">Harbor Baths and</tspan><tspan x="0" y="5.4">Gymnasium</tspan></text>
-    <text class="cls-1" transform="translate(227.95 240.38)"><tspan x="0" y="0">M</tspan></text>
-    <text class="cls-1" transform="translate(239.46 240.38) scale(.7)"><tspan x="0" y="0">OUNT</tspan></text>
-    <text class="cls-1" transform="translate(266.52 240.38)"><tspan x="0" y="0" xml:space="preserve"> P</tspan></text>
-    <text class="cls-4" transform="translate(277.46 240.38) scale(.7)"><tspan x="0" y="0">ION</tspan></text>
-    <text class="cls-6" transform="translate(275.73 123.85)"><tspan x="0" y="0">Stadium</tspan></text>
-    <text class="cls-6" transform="translate(220.95 177.03)"><tspan class="cls-38" x="0" y="0">T</tspan><tspan x="4.41" y="0">heater</tspan><tspan x="0" y="5.4">Gymnasium</tspan></text>
-    <text class="cls-6" transform="translate(221.09 197.74)"><tspan class="cls-38" x="0" y="0">T</tspan><tspan x="4.41" y="0">heater</tspan></text>
-    <text class="cls-6" transform="translate(155.37 205.47)"><tspan x="0" y="0">A</tspan></text>
-    <text class="cls-6" transform="translate(160.11 205.47) scale(.7)"><tspan x="0" y="0">GORA</tspan></text>
-    <text class="cls-6" transform="translate(105.49 185.42)"><tspan class="cls-39" x="0" y="0">T</tspan><tspan x="3.91" y="0">emple o</tspan><tspan class="cls-32" x="25.63" y="0">f</tspan><tspan x="9.64" y="5.4">Serapis</tspan></text>
-    <text class="cls-5" transform="translate(59.6 157.6)"><tspan class="cls-42" x="0" y="0">T</tspan><tspan x="3.27" y="0">o O</tspan><tspan class="cls-33" x="10.96" y="0">r</tspan><tspan x="12.85" y="0">t</tspan><tspan class="cls-35" x="14.35" y="0">y</tspan><tspan x="16.27" y="0">gia</tspan></text>
-    <text class="cls-6" transform="translate(264.06 343.09)"><tspan x="0" y="0">East</tspan><tspan x="-10.54" y="5.4">Gymnasium</tspan></text>
-    <text class="cls-6" transform="translate(212.6 329.61)"><tspan x="0" y="0">Upper</tspan><tspan x="0" y="6.4">Gymnasium</tspan></text>
-    <text class="cls-6" transform="translate(203.78 286.98)"><tspan x="0" y="0">Council</tspan><tspan x="0" y="5.4">House</tspan></text>
-    <text class="cls-6" transform="translate(129.13 283.06)"><tspan class="cls-39" x="0" y="0">T</tspan><tspan x="3.91" y="0">emple o</tspan><tspan class="cls-32" x="25.63" y="0">f</tspan><tspan x="28.81" y="0" xml:space="preserve"> the</tspan><tspan x="4.28" y="7.4">D</tspan><tspan class="cls-35" x="9.68" y="7.4">i</tspan><tspan x="11.19" y="7.4">vine </tspan><tspan class="cls-40" x="24.31" y="7.4">J</tspan><tspan x="26.47" y="7.4">ulius</tspan><tspan x="11.34" y="14.8">and </tspan><tspan class="cls-40" x="23" y="14.8">R</tspan><tspan x="27.2" y="14.8">ome</tspan></text>
-    <text class="cls-6" transform="translate(168.33 322.61)"><tspan x="0" y="0">S</tspan></text>
-    <text class="cls-6" transform="translate(171.68 322.61) scale(.7)"><tspan class="cls-41" x="0" y="0">T</tspan><tspan class="cls-36" x="4.13" y="0">A</tspan><tspan x="8.65" y="0">TE</tspan></text>
-    <text class="cls-6" transform="translate(165.24 328.01)"><tspan x="0" y="0">A</tspan></text>
-    <text class="cls-6" transform="translate(169.98 328.01) scale(.7)"><tspan x="0" y="0">GORA</tspan></text>
-    <text class="cls-6" transform="translate(571.15 150.03)"><tspan class="cls-39" x="0" y="0">T</tspan><tspan x="3.91" y="0">emple o</tspan><tspan class="cls-32" x="25.63" y="0">f</tspan><tspan x="28.81" y="0" xml:space="preserve"> A</tspan><tspan class="cls-30" x="35.3" y="0">r</tspan><tspan x="37.78" y="0">temis</tspan></text>
-    <text class="cls-6" transform="translate(382.28 185.24)"><tspan x="0" y="0">Sanctua</tspan><tspan class="cls-43" x="21" y="0">r</tspan><tspan x="23.53" y="0">y o</tspan><tspan class="cls-32" x="31.77" y="0">f</tspan><tspan x="16.58" y="6.4">Cybele</tspan></text>
-    <text class="cls-6" transform="translate(179.78 368.38)"><tspan class="cls-34" x="0" y="0">T</tspan><tspan x="3.78" y="0">omb o</tspan><tspan class="cls-32" x="21.64" y="0">f</tspan><tspan x="24.81" y="0" xml:space="preserve"> St. Lu</tspan><tspan class="cls-35" x="42.68" y="0">k</tspan><tspan x="45.87" y="0">e</tspan></text>
-    <text class="cls-6" transform="translate(384.06 229.18)"><tspan class="cls-34" x="0" y="0">T</tspan><tspan x="3.78" y="0">omb o</tspan><tspan class="cls-32" x="21.64" y="0">f</tspan><tspan x="24.81" y="0" xml:space="preserve"> the</tspan><tspan x="-2.4" y="6.4">Se</tspan><tspan class="cls-44" x="3.86" y="6.4">v</tspan><tspan x="7.01" y="6.4">en Sle</tspan><tspan class="cls-33" x="23.12" y="6.4">e</tspan><tspan x="26.12" y="6.4">pers</tspan></text>
-    <text class="cls-6" transform="translate(183.46 90.81)"><tspan x="0" y="0">Chur</tspan><tspan class="cls-35" x="13.78" y="0">c</tspan><tspan x="16.6" y="0">h o</tspan><tspan class="cls-32" x="25.5" y="0">f</tspan><tspan x="28.67" y="0" xml:space="preserve"> Ma</tspan><tspan class="cls-43" x="39.1" y="0">r</tspan><tspan x="41.64" y="0">y</tspan></text>
-    <text class="cls-6" transform="translate(111.3 269.84)"><tspan x="0" y="0">Gate o</tspan><tspan class="cls-32" x="18.52" y="0">f</tspan><tspan x="21.69" y="0" xml:space="preserve"> Hercules</tspan></text>
-    <text class="cls-8" transform="translate(62.94 278.55) rotate(51.73)"><tspan x="0" y="0">N</tspan></text>
-    <text class="cls-8" transform="translate(70.29 288.6) rotate(59.23) scale(.7)"><tspan x="0" y="0">I</tspan></text>
-    <text class="cls-8" transform="translate(72.65 292.59) rotate(62.36) scale(.7)"><tspan x="0" y="0">G</tspan></text>
-    <text class="cls-8" transform="translate(76.4 299.85) rotate(65.21) scale(.7)"><tspan x="0" y="0">H</tspan></text>
-    <text class="cls-8" transform="translate(80.03 307.82) rotate(67.16) scale(.7)"><tspan x="0" y="0">T</tspan></text>
-    <text class="cls-8" transform="translate(82.75 314.37) rotate(68.33) scale(.7)"><tspan x="0" y="0">I</tspan></text>
-    <text class="cls-8" transform="translate(84.49 318.75) rotate(69.49) scale(.7)"><tspan x="0" y="0">N</tspan></text>
-    <text class="cls-8" transform="translate(87.58 327.07) rotate(70.73) scale(.7)"><tspan x="0" y="0">G</tspan></text>
-    <text class="cls-8" transform="translate(90.28 334.84) rotate(71.81) scale(.7)"><tspan x="0" y="0">A</tspan></text>
-    <text class="cls-8" transform="translate(92.97 343.11) rotate(72.75) scale(.7)"><tspan x="0" y="0">L</tspan></text>
-    <text class="cls-8" transform="translate(95.21 350.34) rotate(73.6) scale(.7)"><tspan x="0" y="0">E</tspan></text>
-    <text class="cls-8" transform="translate(97.46 358.06) rotate(74.29)"><tspan x="0" y="0"> </tspan></text>
-    <text class="cls-8" transform="translate(99.04 363.66) rotate(75.28)"><tspan x="0" y="0">M</tspan></text>
-    <text class="cls-8" transform="translate(102.36 376.48) rotate(76.47) scale(.7)"><tspan x="0" y="0">O</tspan></text>
-    <text class="cls-8" transform="translate(104.21 384.22) rotate(77.42) scale(.7)"><tspan x="0" y="0">U</tspan></text>
-    <text class="cls-8" transform="translate(106.01 392.33) rotate(78.54) scale(.7)"><tspan x="0" y="0">N</tspan></text>
-    <text class="cls-8" transform="translate(107.75 401.05) rotate(79.79) scale(.7)"><tspan x="0" y="0">T</tspan></text>
-    <text class="cls-8" transform="translate(108.97 407.9) rotate(81.31) scale(.7)"><tspan x="0" y="0">A</tspan></text>
-    <text class="cls-8" transform="translate(110.23 416.46) rotate(83.07) scale(.7)"><tspan x="0" y="0">I</tspan></text>
-    <text class="cls-8" transform="translate(110.81 421.09) rotate(85.67) scale(.7)"><tspan x="0" y="0">N</tspan></text>
-    <text class="cls-2" transform="translate(236.85 83.31)"><tspan x="0" y="0">K</tspan></text>
-    <text class="cls-2" transform="translate(243.5 83.31) scale(.7)"><tspan x="0" y="0">ORESSIAN</tspan></text>
-    <text class="cls-2" transform="translate(240.32 92.11)"><tspan x="0" y="0">D</tspan></text>
-    <text class="cls-3" transform="translate(247.25 92.11) scale(.7)"><tspan x="0" y="0">ISTRICT</tspan></text>
-    <text class="cls-2" transform="translate(372.39 353.88) rotate(-40.64)"><tspan x="0" y="0">S</tspan></text>
-    <text class="cls-2" transform="translate(375.64 351.1) rotate(-41.87) scale(.7)"><tspan x="0" y="0">A</tspan></text>
-    <text class="cls-2" transform="translate(378.62 348.43) rotate(-43.01) scale(.7)"><tspan x="0" y="0">C</tspan></text>
-    <text class="cls-2" transform="translate(381.53 345.71) rotate(-44.23) scale(.7)"><tspan x="0" y="0">R</tspan></text>
-    <text class="cls-2" transform="translate(384.32 342.99) rotate(-45.52) scale(.7)"><tspan x="0" y="0">E</tspan></text>
-    <text class="cls-2" transform="translate(387.2 340.07) rotate(-47.04) scale(.7)"><tspan x="0" y="0">D</tspan></text>
-    <text class="cls-2" transform="translate(390.5 336.51) rotate(-48.3)"><tspan x="0" y="0"> </tspan></text>
-    <text class="cls-2" transform="translate(392 334.9) rotate(-50.22)"><tspan x="0" y="0">W</tspan></text>
-    <text class="cls-2" transform="translate(397.12 328.69) rotate(-52.78) scale(.7)"><tspan x="0" y="0">A</tspan></text>
-    <text class="cls-2" transform="translate(399.52 325.53) rotate(-54.52) scale(.7)"><tspan x="0" y="0">Y</tspan></text>
-    <text class="cls-2" transform="translate(387.48 108.97) rotate(4.89)"><tspan x="0" y="0">S</tspan></text>
-    <text class="cls-2" transform="translate(391.76 109.33) rotate(5.51) scale(.7)"><tspan x="0" y="0">A</tspan></text>
-    <text class="cls-2" transform="translate(395.77 109.72) rotate(6.14) scale(.7)"><tspan x="0" y="0">C</tspan></text>
-    <text class="cls-2" transform="translate(399.73 110.14) rotate(6.82) scale(.7)"><tspan x="0" y="0">R</tspan></text>
-    <text class="cls-2" transform="translate(403.63 110.61) rotate(7.58) scale(.7)"><tspan x="0" y="0">E</tspan></text>
-    <text class="cls-2" transform="translate(407.71 111.15) rotate(8.51) scale(.7)"><tspan x="0" y="0">D</tspan></text>
-    <text class="cls-2" transform="translate(412.49 111.87) rotate(9.32)"><tspan x="0" y="0"> </tspan></text>
-    <text class="cls-2" transform="translate(414.67 112.2) rotate(10.62)"><tspan x="0" y="0">W</tspan></text>
-    <text class="cls-2" transform="translate(422.46 113.68) rotate(12.43) scale(.7)"><tspan x="0" y="0">A</tspan></text>
-    <text class="cls-2" transform="translate(426.2 114.5) rotate(13.72) scale(.7)"><tspan x="0" y="0">Y</tspan></text>
-    <line class="cls-15" x1="159.17" y1="267.71" x2="173.25" y2="268.49"/>
+    <text class="cls-7" style="white-space: pre; text-anchor: middle;" x="87.583" y="81.543"><tspan x="87.583" y="81.543" style="font-size: 10px; word-spacing: 0px;">Harbor</tspan></text>
+    <text class="cls-6" style="white-space: pre; transform-box: fill-box; transform-origin: 50% 50%; text-anchor: middle;" x="174.525" y="106.711" transform="matrix(0.661216, -0.750195, 0.750195, 0.661216, 57.481373, 13.37976)"><tspan x="174.525" y="106.711" style="font-size: 7px; word-spacing: 0px;">Harbor Baths and Gymnasium</tspan></text>
+    <text class="cls-1" style="font-style: normal; white-space: pre; font-size: 14px;" x="243.566" y="256.672">Mount Pion</text>
+    <text class="cls-6" transform="matrix(0.768167, 0.64025, -0.64025, 0.768167, 300.447301, 117.062621)" style="white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;"><tspan x="0" y="0" style="font-size: 7px; word-spacing: 0px;">Stadium</tspan></text>
+    <text class="cls-6" transform="translate(220.95 177.03)" style="white-space: pre;"><tspan class="cls-38" x="0" y="0">Theater Gymnasium</tspan></text>
+    <text class="cls-6" transform="translate(221.09 197.74)" style="white-space: pre;"><tspan class="cls-38" x="0" y="0">Theater</tspan></text>
+    <text class="cls-6" transform="matrix(0.671532, -0.740976, 0.740976, 0.671532, 167.446278, 202.731148)" style="white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;"><tspan x="0" y="0" style="font-size: 7px; word-spacing: 0px;">Agora</tspan></text>
+    <text class="cls-6" transform="matrix(0.667109, -0.74496, 0.74496, 0.667109, 136.599229, 187.019713)" style="white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;"><tspan class="cls-39" x="0" y="0" style="font-size: 7px; word-spacing: 0px; letter-spacing: -0.42px;">Temple of Serapis</tspan></text>
+    <text class="cls-5" transform="translate(59.6 157.6)" style="white-space: pre;"><tspan class="cls-42" x="0" y="0">To Ortygia</tspan></text>
+    <text class="cls-6" transform="matrix(0.927905, -0.372816, 0.372816, 0.927905, 273.165534, 348.085688)" style="white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;"><tspan x="0" y="0" style="font-size: 7px; word-spacing: 0px;">East Gymnasium</tspan></text>
+    <text class="cls-6" transform="translate(212.6 329.61)" style="white-space: pre;"><tspan x="0" y="0">Upper Gymnasium</tspan></text>
+    <text class="cls-6" style="white-space: pre;" x="204.319" y="292.054"><tspan x="204.319" y="292.054" style="font-size: 7px; word-spacing: 0px;">Council House</tspan></text>
+    <text class="cls-6" style="white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;" x="175.486" y="288.422" transform="matrix(0.767415, 0.64115, -0.64115, 0.767415, -10.212359, 28.794481)"><tspan class="cls-39" x="175.486" y="288.422" style="font-size: 7px; word-spacing: 0px; letter-spacing: -0.42px;">Temple of the Divine Julius and Rome</tspan></text>
+    <text class="cls-6" transform="matrix(0.777119, 0.629354, -0.629354, 0.777119, 180.150391, 321.547584)" style="white-space: pre; text-anchor: middle; transform-box: fill-box; transform-origin: 50% 50%;"><tspan x="0" y="0" style="font-size: 7px; word-spacing: 0px;">State Agora</tspan></text>
+    <text class="cls-6" style="white-space: pre;" x="559.553" y="150.615"><tspan class="cls-39" x="559.553" y="150.615" style="font-size: 7px; word-spacing: 0px; letter-spacing: -0.42px;">Temple of Artemis</tspan></text>
+    <text class="cls-6" style="white-space: pre; text-anchor: end;" x="436.419" y="182.264"><tspan x="436.419" y="182.264" style="font-size: 7px; word-spacing: 0px;">Sanctuary of Cybele</tspan></text>
+    <text class="cls-6" style="white-space: pre; text-anchor: middle; font-size: 7px;" x="202.523" y="368.04">Tomb of St. Luke</text>
+    <text class="cls-6" style="white-space: pre; font-size: 7px;" x="380.959" y="228.696">Tomb of the Seven Sleepers</text>
+    <text class="cls-6" transform="translate(183.46 90.81)" style="white-space: pre;"><tspan x="0" y="0">Church of Mary</tspan></text>
+    <text class="cls-6" style="white-space: pre;" x="180.934" y="271.1"><tspan x="180.934" y="271.1" style="font-size: 7px; word-spacing: 0px;">Gate of Hercules</tspan></text>
+    <text class="cls-8" transform="matrix(0.208583, 0.978005, -0.978005, 0.208583, 93.604023, 368.784868)" style="font-style: normal; white-space: pre; text-anchor: middle; font-size: 13px; transform-box: fill-box; transform-origin: 50% 50%;" x="0" y="0">Nightingale Mountain</text>
+    <text class="cls-2" style="white-space: pre; text-anchor: middle;" x="243.078" y="76.778"><tspan x="243.078" y="76.778" style="font-size: 9px; word-spacing: 0px;">Koressian District</tspan></text>
+    <text class="cls-2" transform="matrix(0.758817, -0.651304, 0.651304, 0.758817, 387.614197, 342.102295)" style="white-space: pre; text-anchor: middle;"><tspan x="0" y="0" style="font-size: 9px; word-spacing: 0px;">Sacred Way</tspan></text>
+    <text class="cls-2" transform="matrix(0.99636, 0.085243, -0.085243, 0.99636, 402.181915, 112.194)" style="white-space: pre; text-anchor: middle;"><tspan x="0" y="0" style="font-size: 9px; word-spacing: 0px;">Sacred Way</tspan></text>
     <line class="cls-15" x1="169.34" y1="290.21" x2="182.64" y2="298.23"/>
-    <line class="cls-15" x1="177.56" y1="318.19" x2="193.21" y2="307.23"/>
+    <line class="cls-15" x1="179.88" y1="316.487" x2="193.21" y2="307.23" style=""/>
     <line class="cls-15" x1="219.82" y1="177.12" x2="203.97" y2="171.06"/>
   </g>
   <g id="Key">
-    <rect class="cls-28" x="534.04" y="360.49" width="99.8" height="82.15"/>
-    <g>
+    <rect class="cls-28" x="471.599" y="360.49" width="162.241" height="82.15" style=""/>
+    <g transform="matrix(1, 0, 0, 1, -64.69648, -0.53773)">
       <line class="cls-21" x1="540.69" y1="369.31" x2="562.29" y2="369.31"/>
-      <text class="cls-29" transform="translate(572.42 371.14)"><tspan x="0" y="0">City </tspan><tspan class="cls-34" x="12.76" y="0">W</tspan><tspan x="18.43" y="0">alls</tspan></text>
+      <text class="cls-29" transform="translate(572.42 371.14)" style="white-space: pre;"><tspan x="0" y="0">City Walls </tspan></text>
     </g>
-    <g>
+    <g transform="matrix(1, 0, 0, 1, -65.218742, 0.39259)">
       <g>
         <line class="cls-12" x1="540.39" y1="383.68" x2="561.99" y2="383.68"/>
         <line class="cls-18" x1="540.69" y1="383.68" x2="562.29" y2="383.68"/>
       </g>
-      <text class="cls-29" transform="translate(572.42 385.82)"><tspan x="0" y="0">Major </tspan><tspan class="cls-40" x="17.94" y="0">R</tspan><tspan x="22.14" y="0">oads</tspan></text>
+      <text class="cls-29" transform="translate(572.42 385.82)" style="white-space: pre;"><tspan x="0" y="0">Major Roads </tspan></text>
     </g>
-    <g>
+    <g transform="matrix(1, 0, 0, 1, -68.559326, -1.490653)">
       <rect class="cls-23" x="544.29" y="394.53" width="14.4" height="14.4"/>
-      <text class="cls-29" transform="translate(572.42 402.68)"><tspan x="0" y="0">Buildings</tspan></text>
+      <text class="cls-29" transform="translate(572.42 402.68)" style="white-space: pre;"><tspan x="0" y="0">Buildings</tspan></text>
     </g>
-    <g>
-      <text class="cls-25" transform="translate(552.21 421.95)"><tspan x="0" y="0">!</tspan></text>
-      <text class="cls-29" transform="translate(572.42 418.99)"><tspan x="0" y="0">Impo</tspan><tspan class="cls-30" x="15.02" y="0">r</tspan><tspan x="17.49" y="0">tant Locations</tspan><tspan x="0" y="7.4">in </tspan><tspan class="cls-37" x="6.92" y="7.4">P</tspan><tspan x="10.65" y="7.4">aul</tspan><tspan class="cls-34" x="18.52" y="7.4">’</tspan><tspan x="19.53" y="7.4">s Time</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, -75.779419, 1.683379)">
+      <text class="cls-25" style="white-space: pre;" x="552.393" y="419.362"><tspan x="552.393" y="419.362" style="font-size: 6px; word-spacing: 0px;">!</tspan></text>
+      <text class="cls-29" transform="translate(572.42 418.99)" style="white-space: pre;"><tspan x="0" y="0">Important Locations in Paul’s Time</tspan></text>
     </g>
-    <g>
-      <text class="cls-24" transform="translate(548.69 437.73)"><tspan x="0" y="0">X</tspan></text>
-      <text class="cls-29" transform="translate(572.42 437.13)"><tspan x="0" y="0">Later Christian Sites</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, -73.009872, 0.933889)">
+      <text class="cls-24" transform="translate(548.69 437.73)" style="white-space: pre;"><tspan x="0" y="0">X</tspan></text>
+      <text class="cls-29" transform="translate(572.42 437.13)" style="white-space: pre;"><tspan x="0" y="0">Later Christian Sites</tspan></text>
     </g>
   </g>
-  <g id="Scale">
+  <g id="Scale" transform="matrix(1, 0, 0, 1, -21.217661, -0.296324)">
     <g>
       <line class="cls-17" x1="486.97" y1="36.48" x2="486.97" y2="31.68"/>
       <line class="cls-17" x1="531.59" y1="36.48" x2="531.59" y2="31.68"/>
@@ -406,8 +358,8 @@
       <line class="cls-17" x1="509.14" y1="35.04" x2="509.14" y2="31.68"/>
       <line class="cls-17" x1="554.04" y1="35.04" x2="554.04" y2="31.68"/>
       <line class="cls-17" x1="486.97" y1="31.68" x2="576.21" y2="31.68"/>
-      <text class="cls-29" transform="translate(485.43 42.69)"><tspan x="0" y="0">0</tspan></text>
-      <text class="cls-29" transform="translate(571.76 42.69)"><tspan x="0" y="0">500 m</tspan></text>
+      <text class="cls-29" transform="translate(485.43 42.69)" style="white-space: pre;"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-29" transform="translate(571.76 42.69)" style="white-space: pre;"><tspan x="0" y="0">500 meters</tspan></text>
     </g>
     <g>
       <line class="cls-17" x1="486.76" y1="29.36" x2="486.76" y2="24.56"/>
@@ -416,14 +368,15 @@
       <line class="cls-17" x1="507.98" y1="29.36" x2="507.98" y2="26"/>
       <line class="cls-17" x1="550.68" y1="29.36" x2="550.68" y2="26"/>
       <line class="cls-17" x1="486.76" y1="29.36" x2="571.91" y2="29.36"/>
-      <text class="cls-29" transform="translate(485.15 22.71)"><tspan x="0" y="0">0</tspan></text>
-      <text class="cls-29" transform="translate(566.92 22.71)"><tspan x="0" y="0">500 </tspan><tspan class="cls-35" x="11.59" y="0">y</tspan><tspan x="14.42" y="0">ds</tspan></text>
+      <text class="cls-29" transform="translate(485.15 22.71)" style="white-space: pre;"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-29" transform="translate(566.92 22.71)" style="white-space: pre;"><tspan x="0" y="0">500 </tspan><tspan class="cls-35" x="11.59" y="0">yards</tspan></text>
     </g>
   </g>
   <g id="Compass">
-    <text class="cls-31" transform="translate(595.64 39.58) rotate(22.33)"><tspan x="0" y="0">µ</tspan></text>
+    <text class="cls-31" transform="translate(595.64 39.58) rotate(22.33)" style="white-space: pre;"><tspan x="0" y="0">µ</tspan></text>
   </g>
   <g id="Frame">
     <rect class="cls-16" x="57.84" y="10.65" width="576" height="432"/>
   </g>
+  <line class="cls-15" x1="156.018" y1="299.39" x2="169.348" y2="290.133" style=""/>
 </svg>
